@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<!-- saved from url=(0069)https://www.figma.com/community/file/1182909538538211933/youtube-logo -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+    
+
+    <meta name="is_preload_streaming" content="true">
+
+        <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@figma">
+    <meta name="twitter:title" content="youtube logo | Figma">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="https://s3-alpha.figma.com/hub/file/2729732820/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png">
+
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://s3-alpha.figma.com/hub/file/2729732820/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png">
+    <meta property="og:url" content="https://www.figma.com/community/file/1182909538538211933/youtube-logo">
+
+    <meta property="og:description" content="">
+    <meta property="og:image:width" content="1920">
+    <meta property="og:image:height" content="960">
+
+    <link rel="preload" as="fetch" crossorigin="anonymous" href="https://www.figma.com/api/hub_files/1182909538538211933/versions" data-fetch-preload-type="versions">
+    <link rel="preload" as="image" fetchpriority="high" href="./youtbelogo_files/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png" imagesrcset="/community/thumbnail?resource_type=file&amp;resource_id=1182909538538211933&amp;width=160&amp;signature=69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover 160w, /community/thumbnail?resource_type=file&amp;resource_id=1182909538538211933&amp;width=800&amp;signature=69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover 800w, /community/thumbnail?resource_type=file&amp;resource_id=1182909538538211933&amp;width=1200&amp;signature=69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover 1200w, https://s3-alpha.figma.com/hub/file/2729732820/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png 1600w" imagesizes="(min-width: 2048px) 50vw, 100vw">
+
+    <meta name="description" content="">
+    <link rel="canonical" href="https://www.figma.com/community/file/1182909538538211933/youtube-logo">
+
+           
+        <script nonce="">
+          if (function() {
+            if (window.WebGL2RenderingContext === undefined) {
+              // WebGL2.0 check
+              return true
+            }
+            if (window.WeakRef === undefined) {
+              // WeakRef check
+              return true
+            }
+          }()) {
+            location.href = '/unsupported_browser'
+          }
+        </script>
+
+      <link rel="preload" as="script" href="./youtbelogo_files/runtime~community-0ace1b78f6a32402.min.js.br" crossorigin="anonymous" nonce="">
+      <link rel="preload" as="script" href="./youtbelogo_files/vendor-core-736910575c7bd016.min.js.br" crossorigin="anonymous" nonce="">
+      <link rel="preload" as="script" href="./youtbelogo_files/svg-85bb0323-44cfff070ab13369.min.js.br" crossorigin="anonymous" nonce="">
+      <link rel="preload" as="script" href="./youtbelogo_files/svg-f3b69257-3be195c1c0860412.min.js.br" crossorigin="anonymous" nonce="">
+      <link rel="preload" as="script" href="./youtbelogo_files/svg-0707a1b46e42e477.min.js.br" crossorigin="anonymous" nonce="">
+      <link rel="preload" as="script" href="./youtbelogo_files/cssbuilder-99a5cc921c4b041d.min.js.br" crossorigin="anonymous" nonce="">
+      <link rel="preload" as="script" href="./youtbelogo_files/vendor-1c15915145e32abc.min.js.br" crossorigin="anonymous" nonce="">
+      <link rel="preload" as="script" href="./youtbelogo_files/community-59f55deb90efaae5.min.js.br" crossorigin="anonymous" nonce="">
+
+
+
+
+
+
+    <script nonce="" type="application/json" data-initial="">{"INITIAL_OPTIONS":{"experiments":{"exp_domain_verification":{"randomization_method":0,"treatment_names":["control","variant"]},"exp_figjam_onboarding_make_tmpl":{"assignment_weights":{"control":0,"variant":100},"randomization_method":0,"winner":"","treatment_names":["control","variant"]},"exp_figjam_specific_onboarding":{"assignment_weights":{"control":34,"variant_1":33,"variant_2":33},"randomization_method":0,"winner":"variant_2","treatment_names":["control","variant_1","variant_2"]},"exp_saml_encryption":{"randomization_method":0,"treatment_names":["control","variant"]},"exp_teams_table_refactor":{"assignment_weights":{"control":0,"variant":100},"randomization_method":0,"winner":"variant","treatment_names":["control","variant"]},"exp_email_org_holdout":{"assignment_weights":{"in_holdout":0,"not_in_holdout":100},"randomization_method":0,"winner":"not_in_holdout","treatment_names":["in_holdout","not_in_holdout"]}},"statsig_figma_app_client_api_key":"client-CIbRGW8h7lTl7wjJTyKWmPVXuJai3B8xe7llhBQmjJX","launchdarkly_client_side_id":"62e9cfc83c59501226eae584","preset_library_keys":["1341960932129965145","1341958841682444374","1341960613427075160"],"tracking_session_id":"5zhruTCsZ2TEPtre","cluster_name":"prod","error_dashboard_url":"https://errors.figma.com/api","frontend_sentry_dsn":"https://d1b12a8fbe424e4b956eb33cadd5b30d@errors.figma.com/api/sentry/56203","figma_email_suffix":"@figma.com","csp_nonce":"xZiFVRfQXfZ/MFFbBX81OQ==","figma_url":"https://www.figma.com","api_url":"https://api.figma.com","api_cdn_url":"https://api-cdn.figma.com","workflow_interop_template_id":"1085289819681923775","flash":{"error":null,"warn":null,"success":null},"user_currency_from_ip":"usd","fxr_for_currency":null,"google_contacts_client_id":"68994840458-eaosee3tcba6dmdsdjk4ev1ie5dbob2q.apps.googleusercontent.com","google_contacts_api_key":null,"google_drive_client_id":"438425412978-45umild77kjr12jigqg31ojvlno436ev.apps.googleusercontent.com","google_drive_api_key":"AIzaSyAHNbt8yQ-u-AvdPHTzHodK5eMyVoE5iZ4","cursor_bot":{"ginger_formatted_text_hub_file_id":"1332121612191312024","ginger_hub_file_id":"1243321216166864604","ginger_no_text_hub_file_id":"1332121476885922967","product_page_hub_file_id":"1243321298372865757"},"prototyping_for_gen0":{"asset_hub_file_id":"1256400056994575865"},"google_client_id":"532352704633-6pkces9iboppp465idnovkcqtlsa8j7t.apps.googleusercontent.com","is_explicit_consent_region":true,"consent_region":"explicit","page_load_token":"pv=1\u0026pr=0fd61530edfb7cf5\u0026pt=1717175751\u0026ph=eUcHB7iS2f_eShgKpp9T6_zBAF6akI4xSia50G-CHvA","resource_type":null,"email":null,"user_ip":"102.89.32.187","redirect_url":null,"email_token":null,"existing_session":false,"should_use_redirect_instead":false,"mailing_list_checkbox_default":true,"from_chrome_extension":false,"viewer_region":"LA","viewer_city":"Lagos","iso_code":"NG","editing_file":null,"zeplin_plugin_id":"745330164019088593","avocode_plugin_id":"821674268995163810","avocode_markup_plugin_id":"1065609061080464965","org_id":null,"page_load_team_id":null,"is_cloudfront":true,"segment_web_key":"6Zhdn0wK1GLYzCsb0LIK0oQplS5TXcB2","segment_fullscreen_key":"6uxDivlUmLf95lHRk0R8bZvr8zDxbX5E","stripe_api_public":"pk_live_LKZ0RKjSZG2D2pwdtwrAhkiJ","google_tag_manager_iframe_url":"https://marketing.figma.com","sprig_iframe_url":"https://sprig.figma.com","recaptcha_v3_ent_site_key":"6Le0W80aAAAAAGU9L7qz4o9tQVqrdJVv2M8XHIcd","arkose_public_key":"2C8A87DD-7EEF-4414-895C-D3982246EE49","arkose_challenge_public_key":"A207F8A1-ED09-4325-ACE6-C8E26A458FBA","arkose_frame_url":"https://verify.figma.com/arkose_frame.html","arkose_origin":"https://verify.figma.com","do_arkose":true,"release_manifest_git_commit":"bdc125a96dce3809c51e536b7ec47ef3e92c0ab3","release_server_git_commit":"1f4269251b3bf4185d687b6fcc8e61aeb1815b92","release_git_tag":"release-2024-05-30","release_manifest_hash":"6f4479de5e556a5828ed98a5ffd993b5","feature_flags":{"mirror_sinatra_write_path":true,"search_opensearch_read_com_rscs":true,"replica_api_file_new":true,"dynamic_authn_mac_key":true,"paper_trail_enabled":true,"dse_library_v4_no_whitespace":true,"dynamic_sendgrid_api_secret":true,"multiplayer_initialize_cache":true,"marketo_user_upsert_logging":true,"antiscraping_rate_limits":true,"perm_custom_policy_order":true,"dt_lego_annotations_font_style":true,"multiplayer_props_asgmt_fields":true,"oauth_secret_rotate":true,"ffcp_file_key_disable_lis":true,"dynamic_unsubscribe_salt":true,"multiplayer_migration_dtd_clean":true,"multiplayer_props_ref_fields":true,"vat_tax_collection_au":true,"remove_old_bl_disable_dry_run":true,"frontend_deploys_canary":true,"dg_orphaned_teams_backfill":true,"starter_files_separate_creation":true,"replica_api_recent_prototypes":true,"search_remove_terminate_after":true,"pc_ela_upgrade_backfill_unlt":true,"dt_figmadoc_arrays":true,"remove_old_bl_run_unlimited":true,"last_upgraded_at_backfill":true,"vat_tax_collection_ca":true,"dynamic_ice_cream_secret":true,"vat_tax_collection_kr":true,"search_libv6_to_embed2":true,"cmty_hf_rdp_carousel_verif":true,"ps_create_team_drafts_on_read":true,"multiplayer_journaled_reconnect":true,"figjam_quick_add_drag_magnets":true,"notif_grab_structs_on_replica":true,"cleanup_expired_notif_backfill":true,"livegraph_shim_comp_dark_read":true,"tsm_reconcile_subscription":true,"account_type_requests_backfill":true,"enable_marketo_user_delete":true,"twilio_alphanumeric_gb":true,"multiplayer_editor_incr_branch":true,"replica_api_user_state":true,"ps_exclude_team_drafts_search":true,"ps_benchmark_counts":true,"vat_save_kr":true,"livegraph_shim_comp_full_read":true,"rest_api_token_user_requirements":true,"disable_local_web":true,"exp_domain_verification":true,"curator_prevent_modal_collision":true,"dynamic_stripe_secrets":true,"vat_save_ca":true,"pixie_nsjail":true,"enable_backfill_fsm":true,"config_upgrade_request_flow":true,"billing_dev_mode_mt_csv":true,"partnerstack_affiliate":true,"curator_prevent_notif_collision":true,"notif_at_mention_self":true,"locality_aware_videos":true,"text_data_validate_sep_derived_2":true,"statsig_server_use_data_store":true,"ps_exclude_draft_file_members":true,"cortex_service_enabled":true,"antiabuse_enable_magic_link":true,"del_team_draft_tmpl_files_writes":true,"mirror_not_on_realtime":true,"ps_file_permissions":true,"file_search_name_analyzer":true,"free_periods_backfill_unlt":true,"localize_image_writes":true,"cmty_profile_image_verification":true,"use_glslx_replacement_viewer":true,"exp_figjam_specific_onboarding":true,"asset_embedding_backfill_sg_ultd":true,"replica_api_paginated_files":true,"community_feed_cached":true,"ce_multi_edit_entrypoints":true,"cmty_write_to_notif_sub_tables":true,"ml_prod_training_hub_export":true,"batched_file_hard_delete_for_org":true,"team_search_pv2_dark_launch":true,"ps_ensure_users_have_plan":true,"search_frag_backfill_enabled":true,"dynamic_http_session_secrets":true,"members_es_indexing_watcher":true,"state_group_livegraph_write":true,"backfills_enable_phases_UI":true,"edu_offboarding_educators":true,"multiplayer_props_def_fields":true,"billing_promotions_refund_unused":true,"search_opensearch_read_users":true,"search_opensearch_write_profiles":true,"antiabuse_ugc_scan":true,"exp_email_org_holdout":true,"dsa_teams_in_org":true,"serve_webpack_preload":true,"community_hub_image_inspection":true,"library_v6_index":true,"search_bulk_index_in_batches":true,"ps_favorites_team_id_writes":true,"erb_streaming_files":true,"tfc_repair_backfill_unlimited":true,"use_cards_in_invite_emails":true,"cmty_m10n_auto_creator_elig":true,"file_analyzer_process_batches":true,"scenecursor_default_values":true,"dsa_public_api_save_sorts_to_s3":true,"email_use_revokable_link":true,"ps_validate_ou_drafts":true,"figjam_track_insertion_undo":true,"pc_ela_upgrade_backfill":true,"recognize_credit_avalara":true,"integ_improved_login_flow":true,"edu_educators_backfill":true,"serve_webpack_mobile_split":true,"multiplayer_migration_derived_dw":true,"search_opensearch_read_profiles":true,"antispam_rules_hf_carousel_img":true,"ce_multi_edit_logging":true,"dt_lego_annotations_copy":true,"free_periods_backfill":true,"curator_queue_notifs":true,"rest_api_expire_oauth_tokens":true,"upgrade_ou_on_team_org_move":true,"ps_create_team_drafts_job_writes":true,"antiabuse_goog_sso_events":true,"asset_search_embed_on_publish":true,"multiplayer_editor_incr_orgs":true,"tfc_repair_backfill_full_run":true,"teams_table_es_indexer_updates":true,"cmty_profile_in_react_router":true,"pixie_worker_on_sinatra":true,"authn_write_first_pass_cookies":true,"antispam_rules_engine":true,"figjam_text_to_visual_timelineV2":true,"partnerstack_affiliate_figjam":true,"replica_api_folders_files":true,"cmty_m10n_promo_code_issue":true,"org_user_delete_repo_roles":true,"asset_embedding_backfill_sg":true,"comments_media_in_emails":true,"figjam_text_insertion_updates":true,"domain_verification_backfill_ult":true,"livegraph_shim_sg_full_read":true,"block_invalid_team_user_upgrades":true,"dynamic_hmac_secret_key":true,"realtime_enable_allowlist_check":true,"chunked_activity_log_export_csv":true,"share_with_message_email":true,"redact_non_org_ip_activity_log":true,"batch_subscribe_to_used_assets":true,"ds_lib_key_backfill_unlimited":true,"realtime_check_invite_flag":true,"cmty_collections_v2_cache_page":true,"generate_isr_backfill_unlimited":true,"figjam_ai_onboarding":true,"frag_search_disable_dry_run":true,"dynamic_file_auth_enc_key":true,"fetch_lifecycles_community_feed":true,"antiabuse_rm_sensitive_keys":true,"domain_verification_backfill":true,"sc_disable_team_role_edit_check":true,"use_glslx_replacement":true,"realtime_stop_file_pwd_config":true,"update_customer_shipping":true,"search_opensearch_write_com_rscs":true,"generate_isr_backfill_wet_run":true,"ps_team_drafts_deny_policies":true,"email_deduplication":true,"replica_api_file_metadata":true,"log_top_search_results_fig_files":true,"livegraph_shim_sg_dark_read":true,"marketo_user_delete_async":true,"async_reply_to_slack":true,"search_opensearch_run_migrations":true,"cmty_m10n_skip_paid_file_review":true,"permissions_loading_behavior":true,"vat_figma_id_kr":true,"figjam_text_multiple_colors":true,"exp_ws_public_link_controls":true,"sc_folder_sa_audience_backfill":true,"perm_use_engine_feature_flag":true,"vat_tax_collection_eg":true,"ml_training_starter_pro_export":true,"fpl_button_wide":true,"ps_team_drafts_creation":true,"last_upgraded_at_unlimited":true,"replica_api_recent_files":true,"dynamic_twilio_secret":true,"partnerstack_affiliate_upgrade":true,"replica_api_image_auth":true,"antiabuse_rate_limits":true,"limit_payment_failed_emails":true,"skip_invalid_file_import_images":true,"asset_embedding_backfill_c":true,"dt_remap_overrides":true,"ps_permissions":true,"ps_limited_file_re_run":true,"dsa_public_api_snowflake":true,"figjam_ai_03_26_more_prompts":true,"livegraph_shim_sg_upd_metric":true,"mirror_on_livegraph_tracking":true,"ps_planless_users_backfill":true,"search_opensearch_write_users":true,"mirror_on_livegraph":true,"fpl_inter_variable":true,"fullscreen_redu_sinatra_can_edit":true,"edu_educators_unlimited":true,"section_improvements":true,"exp_billing_true_up_glow_up":true,"notif_skip_changing_cp_sub":true,"erb_streaming_state_preloads":true,"figjam_ai_03_26_launch":true,"ds_lib_key_backfill_full_run":true,"ps_team_drafts_tmpl_fix":true,"cmty_move_up_cookie_button":true,"component_livegraph_write":true,"library_v6_more_ai_results":true,"account_type_requests_unlimited":true,"replica_files":true,"multiplayer_editor_incremental":true,"livegraph_shim_comp_upd_metric":true,"multiplayer_write_to_cache":true,"search_folder_v5_read":true,"search_opensearch_write_library":true,"multiplayer_migration_divider":true,"address_mig_dry_run_disabled":true,"include_token_row_id_in_cookies":true,"ce_multi_edit":true,"permissions_load_cache_enabled":true,"asset_embedding_backfill_c_ultd":true,"billing_rl_exempt_test_users":true,"precommit_upgrade_banner_check":true,"edu_offboarding_jobs":true,"fullscreen_cull_on_export":true,"fpl_radio_input":true,"search_no_deleted_draft_roles":true,"text_data_derived_sep_read":true,"dev_mode_members_table_sort_fix":true,"use_on_read_hooks":true,"incr_shorten_reconnect_url":true,"vat_figma_id_eg":true,"integ_use_zoom_meeting_id":true,"tom_destroy_templates":true,"dg_orphaned_teams_no_limit":true,"admin_org_reduced_fetching":true,"search_opensearch_file_browser":true,"unlimited_delduptmpl_backfill":true,"bizsys_org_billing_setup":true,"nct_image_controls":true,"livegraph_ignore_sessionId":true,"i18n_redis_cache":true,"cmty_m10n_auto_acpt_elig_creator":true,"antispam_rekognition_rules":true,"ps_lock_all_plans_during_org_op":true,"authn_clean_up_tokens_on_logout":true,"exp_saml_encryption":true,"figjam_ai_classification_v2":true,"ee_unsanitized_png":true,"undo_reserve_arrays":true,"workspace_assign_teams_modal":true,"dt_code_connect_js_templates":true,"figjam_jamboard_offer":true,"ce_ban_nans_from_stacking":true,"figjam_3p_file_importer":true,"widgets_in_figma_onboarding":true,"ds_materialize_in_subtree_match":true,"ee_hb_separate_scripts":true,"use_materials_json":true,"search_facets":true,"comments_team_digest_run_jobs":true,"admin_app_resource_lifecycles":true,"file_browser_items_view":true,"emoji_15_upgrade":true,"livegraph_shim_team_full_read":true,"dt_code_connect_js_iframe":true,"widgets_hardcode_cocreators":true,"figjam_inline_menu_try_ai_2":true,"figjam_differentiate_stickies_v3":true,"gradient_tool_improvements":true,"ce_flyout_pointer_up_enabled":true,"figjam_summarization":true,"widgets_option_to_update":true,"ce_paste_stack_absolute_pos":true,"ds_component_props_mp_repair":true,"branching_section_diffs":true,"ce_multiplayer_text_logging":true,"figjam_3p_hardware_integration":true,"fs_promise_resolve_on_next_tick":true,"desktop_quickreply_filebrowser":true,"jamgpt_recents_pin":true,"figjam_emoji_image_set_write":true,"config_2024_promo_banner":true,"pro_team_business_names":true,"skip_true_ups_by_license":true,"i18n_sample_string_sentry_errors":true,"ds_dirty_all_states_in_group":true,"i18n_auth_de":true,"variables_nested_variant_props":true,"widgets_validation_throws":true,"fb_offline_notification":true,"render_tree_diff_page_switch":true,"branching_no_bg_inst_updates":true,"defer_invisible_children":true,"cookie_banners_community":true,"ce_microsoft_ime_fix":true,"livegraph_shim_repo_full_read":true,"dt_figmadoc":true,"fullscreen_flanimations":true,"dt_url_improvements":true,"cookie_banners_auth":true,"trackable":true,"dirty_single_state_during_copy":true,"comments_faster_saving_ux":true,"ce_no_nan_size_overrides":true,"figjam_custom_opacity_swt":true,"dt_vscode_cursor_support":true,"serve_webpack":true,"share_modal_async_autocomplete":true,"exp_growth_h123_holdout_team":true,"teams_table_refactor_rollout":true,"cmty_edit_hubfile_upload_media":true,"dev_mode_auto_run_plugin":true,"multiplayer_viewers_write_plugin":true,"plugins_parallelize_load_sandbox":true,"figjam_inline_menu_on_pointer":true,"file_move_show_all_resources":true,"style_obs_migration_assetsync":true,"plugins_zod_validation":true,"fastma":true,"allow_bad_kiwi_bool":true,"ce_scale_tool_skew":true,"cookie_banners_file_viewer":true,"figjam_ngima_stickers":true,"plugins_component_from_node":true,"ipad_combined_hand_select":true,"dev_mode_default_codegen":true,"figjam_navigation_mode":true,"editor_zero_width_input":true,"style_obs_migration_libraries":true,"figjam_mindmaps_detach_orphans":true,"ee_smarter_eye_dropper":true,"cmty_deprecate_browse_as_admin":true,"ce_multi_edit_inproduct_tooltips":true,"desktop_live_updates_presenter":true,"ds_tmp_variable_props_round_trip":true,"variables_typography":true,"org_admin_lg_dark_read2":true,"requires_action_3ds_banner":true,"cursor_bot":true,"figjam_sticky_clustering":true,"org_locality_migrations_status":true,"org_confirm_user_delete_modal_v2":true,"style_obs_migration_var_typog":true,"piper_transitions":true,"ce_max_lines_adjust":true,"ce_match_hidden":true,"figjam_inline_menu_organize_aria":true,"ce_multiplayer_text_if_logging":true,"account_type_requests_async":true,"figjam_custom_opacity_stroke":true,"prototype_expr_float_compare":true,"sc_team_project_in_new_tab":true,"share_options_fj":true,"ds_updates_toast_deprecation":true,"antispam_arkose_google_signup":true,"figjam_inline_menu_organize":true,"figjam_mindmaps_behavior_enable":true,"vat_save_au":true,"figjam_jamboard_easy_signup":true,"figjam_3p_hardware_device":true,"ds_variables_authoring_resize":true,"fpl_slider":true,"scenegraph_hooks_incr_rev_num":true,"ds_improve_field_defaults":true,"presets_baseline":true,"exp_figjam_onboarding_make_tmpl":true,"cmty_disable_vat_for_india":true,"ds_variables_strokes":true,"vat_save_eg":true,"vaidehi_test_gate":true,"ee_color_management_force_canvas":true,"desktop_split_tabs_rollout":true,"dt_dev_mode_discovery_modal":true,"ext_codegen_strict_generate":true,"cookie_banners_prototype":true,"exp_teams_table_refactor":true,"ds_gradient_variables":true,"write_to_node_status_table":true,"variables":true,"edu_offboarding_bootcamps":true,"cmty_collections_v2":true,"style_obs_migration_figscope":true,"livegraph_shim_team_dark_read":true,"web_vitals_report":true,"figjam_mindmaps_stray_connectors":true,"sprig_enabled":true,"ce_font_metadata_mismatch":true,"jamgpt":true,"ds_auto_repair_override_keys":true,"ce_iso_macos_i18n_keys_swap":true,"preserve_undo_redo":true,"passkey_enable_metrics":true,"figjam_mural_import":true,"figjam_container_interop":true,"style_obs_migration_indirectly":true,"livegraph_shim_user_dark_read":true,"comments_html_paste":true,"dev_mode_suggests_tile_dismissal":true,"use_webgl2":true,"figment_rate_limiting":true,"delete_generation_tileatlas":true,"share_options_fd":true,"ee_color_management_image":true,"figjam_mindmaps_groups_enable":true,"desktop_push_notifs_win":true,"admin_billing":true,"search_opensearch_write_com_lib":true,"sunflower_swy_sort_options":true,"plugins_lg_allowlist":true,"frontend_sentry_cpp_location":true,"figjam_text_to_visual_timeline":true,"mobile_prompt_sidebar_modal":true,"sc_team_experience_teams_100":true,"livestore_use_file_migration":true,"dsa_public_api":true,"share_modal_loading_fixes":true,"figjam_mindmaps_entry_enable":true,"remove_inherit_style_key_fields":true,"ds_libraries_toolbar_btn_nudge":true,"sc_team_experience_orgs_100":true,"style_obs_migration_branching":true,"sc_team_experience_orgs_10":true,"desktop_mp_client_id":true,"ce_font_network_status_ui":true,"navigation_mode_scroll_to_pref":true,"livegraph_shim_user_full_read":true,"sc_team_experience_teams_10":true,"ds_limit_go_to_source":true,"prototype_set_mode_action":true,"desktop_haptics_experimental":true,"periodic_team_file_count_repair":true,"enable_starter_team_transfers":true,"ai_generate_specific_prompts":true,"first_draft_make_changes":true,"ce_paste_replace_styles":true,"block_double_logging_upgrades":true,"cmty_rdp_creator_nudge_email":true,"potential_chunk_cache_metric":true,"cmty_rdp_creator_nudges":true,"prototype_async_font_loading":true,"tsmer_flanimations":true,"fig_icons":true,"waf_counter_reset":true,"exp_pro_vr_double_write_org":true,"style_obs_migration_ts_api":true,"i18n_sample_string_datadog":true,"sc_team_experience_teams_1":true,"figment_rate_limit_events":true,"preload_recent_files":true,"nux_dynamic_preview":true,"prototype_multi_path_paywall":true,"fullscreen_animations_z_index":true,"pro_block_unexpected_editors":true,"cmty_collections_v2_figjam_ai":true,"library_modal_learn_more":true,"offline_detection_shadow_logging":true,"desktop_live_updates_at_mention":true,"file_browser_enable_mweb":true,"is_html_to_design_exp_enabled":true,"show_account_balance_banner":true,"ds_variables_relax_modes":true,"fpl_checkbox_input":true,"livegraph_shim_repo_dark_read":true,"members_optimistic_create":true,"ce_page_separators":true,"piper_text_previews":true,"desktop_isolate_metadata":true,"sc_team_experience_teams_55":true,"edu_offboarding_experience":true,"idle_timeout":true,"figjam_text_to_visual":true,"sc_team_experience_enabled":true,"org_locality_migrations_temporal":true,"variables_paste_remap":true,"use_webgl2_viewer":true,"exp_pro_vr_migrate_org":true,"style_obs_migration_leading":true,"migrate_to_search_teamplates_v3":true,"ext_codegen_defaults":true,"ds_workspace_team_default_modes":true,"ce_preserve_rich_text_whitespace":true,"remove_async_atr_status":true,"editor_expose_save_local_copy":true,"nux_gen0_overlay_design_editor":true,"shared_fonts_use_freetype":true,"api_contacts_v2_at_mentions":true,"ce_relative_xywh":true,"image_io_worker_bundle":true,"figjam_summarization_nudge":true,"figjam_differentiate_stickies":true,"branching_request_close":true,"style_obs_migration_sh_style_lib":true,"replica_api_roles":true,"figjam_color_ramp_stroke":true,"incr_use_mp_scene":true,"figjam_locked_magnet_positions":true,"figjam_handle_hanging_space":true,"figjam_mindmaps_gen_from_node":true,"figjam_text_to_visual_mindmap":true,"comments_faster_saving_ux_v2":true,"crash_on_bindings_exception":true,"desktop_import_modal":true,"image_border_default_on":true,"figjam_3p_file_importer_eraser":true,"exp_growth_h123_holdout_user":true,"font_skip_inter":true,"plugins_inc_require_manifest":true,"sc_team_experience_orgs_55":true,"exp_required_signal_collection":true,"stripe_3ds_mandate":true,"fullscreen_edge_click_fix":true,"desktop_split_tabs_beta":true,"prototype_hide_matching_noodles":true,"cmty_rdp_creator_modal":true,"exp_mobile_web_nux_ff":true,"livegraph_shim_enabled":true,"void_and_reissue_admin_button":true,"dev_mode_suggested_upgrades":true,"ds_test_presigned_post":true,"antispam_arkose":true,"ps_benchmark_upgrade_prevention":true,"ps_personal_draft_migration":true,"billing_dev_mode_customer_ui":true,"ee_color_management_circle_p3":true,"library_subs_on_livegraph":true,"i18n_auth_fr":true,"edu_onboarding_grace_period":true,"dev_mode_org_pinned_plugins_ent":true,"reconnect_incr_pending_queries":true,"active_doc_vers_hist":true,"asset_search_sprig_tracking":true,"ce_multi_edit_groups":true,"check_type_for_style_desc":true,"cmty_category_use_query_params":true,"cmty_collections_v2_category_redirect":true,"cmty_collections_v2_redirect":true,"desktop_mp_client_id_presenter_id":true,"dev_mode_restricted_grace_period_string":true,"disable_incr_loading_hacks":true,"document_colors_by_page":true,"download_partial_file_ui":true,"ds_create_override_invalid_prop_refs":true,"ds_fix_cut_styles_dangling_vars":true,"ds_force_layout_instance_sublayers":true,"dse_read_from_presets_table":true,"dt_code_connect_inline_instances":true,"dt_code_connect_org_plus":true,"dt_code_connect_ui_update":true,"dt_frame_status_canvas":true,"edu_bootcamps_reverification":true,"embedding_chunk_v11_writes":true,"embedding_chunk_v12_writes":true,"ext_filter_recents_by_user_id":true,"ext_widget_use_plugins_scenegraph":true,"fb_redux_deleted_page_livestore":true,"fb_redux_drafts_livestore":true,"fb_redux_file_actions_can_create":true,"fb_redux_file_move_helpers":true,"fb_redux_fldr_ctx_menu_own_perms":true,"fb_redux_folder_page_view_hdr":true,"fb_redux_tiles_view_del_fbk":true,"figjam_ai_announcement_title":true,"figjam_forcibly_close_curator":true,"figjam_hybrid_shelf":true,"figjam_inline_organize_more_tools":true,"figjam_summary_nudge_too_many_tokens":true,"figjam_universal_inserts_all_tab_update":true,"file_browser_prevent_delete_no_files":true,"font_index_use_kiwi":true,"fpl_disabled_inner_clicks_button":true,"fpl_modal":true,"fpl_select_stop_propagation":true,"fpl_toggle_button":true,"fpl_visual_bell":true,"frag_search_scale_image":true,"fullscreen_remove_empty_atlases":true,"fullscreen_skip_shadows_bg_blur":true,"fullscreen_smaller_tile_cache_mobile":true,"generalize_consumption_paywall_modal_subtitle":true,"google_federated_cm":true,"gsod_fix":true,"image_reduce_invalidation_time":true,"image_track_invalid_images":true,"incr_send_additive_queries":true,"index_v3_enabled":true,"ip_allowlist_gate":true,"lg_perms_folder_list_card_can_edit_folder":true,"livestore_normalization_rearch":true,"missing_fonts_by_page":true,"org_checkout_min_seat_info_copy":true,"org_merge_preview":true,"piper_autolayout_improvements":true,"piper_layers":true,"piper_selects":true,"piper_text_style_refresh":true,"plugins_plop_saved_into_published":true,"plugins_remove_fs_filter":true,"pro_onboarding_launch":true,"profile_page_lg_permissions":true,"prototype_ai_magic_link_new_prompt":true,"prototype_deferred_updates":true,"prototype_fix_sections_ifl":true,"ps_benchmark_favorites_data_client_side_fix":true,"ps_trashed_drafts_enabled":true,"sc_project_team_access_new_ux":true,"sc_update_folder_sa_disable_disable_lis":true,"sc_update_folder_sa_disable_dry_run":true,"search_persistent_sessions":true,"security_add_on":true,"selected_view_fix_middleware":true,"starter_team_upsell_ftr_lg_perms":true,"statsig_aa_flag_web_file_tile":true,"tiles_virtualize":true,"tsmer_flanimations_overlay_renderer_delay":true,"updates_modal_loading_copy":true,"upgrade_section_lg_perms":true,"use_navigator_online_mp_fallback":true,"use_network_access_restriction_v2":true,"use_updated_org_suspension_modal":true,"variables_paste_remap_popup":true,"variables_quick_detach":true,"variables_typography_cutoff_text_layout":true,"variables_typography_plugin_api_fallback_font":true,"variables_typography_scopes":true,"vbuffer_discard_after_upload":true,"vbuffer_discard_bytes_viewer":true,"vbuffer_free_unused":true,"vbuffer_handle_upload_overlap":true,"viewer_apply_sticky_position_to_vpbs":true,"viewer_context_loss_fix":true,"viewer_max_transform_fix":true,"viewer_no_vbuffer_byte_copy":true,"wslp_exploratory_logging":true,"exclude_assigned_orgs":true,"asalani_test_launch":true,"branching_error_boundary":true,"prototype_remove_usi":true,"dt_code_connect_last_published_at_tooltip":true,"dt_code_connect_instance_pill_tooltip":true,"livegraph_shim_org_user_full_read":true,"livegraph_shim_org_user_dark_read":true,"first_draft_rm_ai_warning":true,"variables_typography_specific_font_enforcing":true,"domain_verification_rollout":true,"multi_page_select":true,"first_draft_prompt_suggestions":true,"lazify_order_undo":true,"post_from_file_modal_lg_perms":true,"lib_history_with_npm_history":true,"first_draft_new_insert_api":true,"variables_typography_remove_fontproperties_api":true,"livegraph_shim_org_full_read":true,"livegraph_shim_org_dark_read":true,"use_images_redis_cluster":true,"rendering_statsig_test":true,"cmty_footer":true,"free_tier_refresh_launch":true,"alternate_payments":true},"livegraph_preload_views":{},"statsig_bootstrap_values":null,"jubilee":false,"index_v3":false,"statsig_project_id":"5ETXMP5xDW3P7AMyQ14tey","datadog_rum_application_id":"91eb025c-e89b-4645-bda6-ca0e442e0b64","datadog_rum_client_token":"pub3f6fa9c94d5ff85890f30fdc10b09c61","datadog_rum_site":"datadoghq.com","datadog_rum_session_sample_rate":0.01,"admin_cognito_logout_url":"https://figma-production-admin.auth.us-west-2.amazoncognito.com/logout?client_id=2lsagdo9asi3ehjvtslcrsqp24\u0026logout_uri=https://admin.figma.com/admin/logout"},"EARLY_ARGS":{"api_user_state_path":null,"api_session_state_path":null,"should_connect_to_multiplayer":true}}</script>
+<script nonce="">
+Object.assign(window, JSON.parse(document.querySelector('[data-initial]').textContent));
+
+console.log('Running frontend commit', "bdc125a96dce3809c51e536b7ec47ef3e92c0ab3");
+
+</script>
+
+  <script nonce="">
+    
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof self?self:{},n=(new Error).stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="f72774d5-5e84-5da9-ad33-62e4ac82ba5f")}catch(e){}}();
+(()=>{"use strict";class e extends WebSocket{constructor(e,o,n){super(e,o),this.onCloseCb=n,this.events=[],this._onopen_=null,this._onmessage_=null,this._onclose_=null,this._onerror_=null,super.onopen=this.onOpen,super.onmessage=this.onMessage,super.onclose=this.onClose,super.onerror=this.onError}onOpen(e){this.events.push({event:"onopen",ev:e}),this.flushIfInitialized()}onMessage(e){this.events.push({event:"onmessage",ev:e}),this.flushIfInitialized()}onClose(e){var o;null==(o=this.onCloseCb)||o.call(this),this.events.push({event:"onclose",ev:e}),this.flushIfInitialized()}onError(e){this.events.push({event:"onerror",ev:e}),this.flushIfInitialized()}flushIfInitialized(){if(this._onmessage_&&this._onopen_&&this._onclose_&&this._onerror_)for(;this.events.length>0;){let{event:e,ev:o}=this.events.shift();switch(e){case"onopen":this._onopen_(o);break;case"onmessage":this._onmessage_(o);break;case"onclose":this._onclose_(o);break;case"onerror":this._onerror_(o)}}}set onopen(e){this._onopen_=e,this.flushIfInitialized()}get onopen(){return this._onopen_}set onmessage(e){this._onmessage_=e,this.flushIfInitialized()}get onmessage(){return this._onmessage_}set onclose(e){this._onclose_=e,this.flushIfInitialized()}get onclose(){return this._onclose_}set onerror(e){this._onerror_=e,this.flushIfInitialized()}get onerror(){return this._onerror_}}let o=window.matchMedia("(prefers-color-scheme: dark)");function n(e){return"system"===e?o.matches?"dark":"light":"dark"===e?"dark":"light"}self.global=self;let i=(e,o,n,i,t,s)=>{if(e)window.userStateXHR={readyState:4,status:200,responseText:e};else if(window.Fig){if(i||!window.INITIAL_OPTIONS.user_data){window.startUserStateXHR=()=>{};return}window.startUserStateXHR=function(e){let o=t;if(!o){o="/api/user/state";var i,r=[];window.INITIAL_OPTIONS.org_id&&r.push("org_id="+window.INITIAL_OPTIONS.org_id),window.INITIAL_OPTIONS.team_id&&r.push("team_id="+window.INITIAL_OPTIONS.team_id),n&&r.push("omit_core_data=1"),e&&r.push("file_key="+e),0!==r.length&&(o+="?"+r.join("&"))}window.userStateXHR=new XMLHttpRequest,window.userStateXHR.open("GET",o);let l=null==(i=window.INITIAL_OPTIONS.user_data)?void 0:i.id;l&&window.userStateXHR.setRequestHeader("X-Figma-User-ID",l),window.userStateXHR.send();var a=window.performance?window.performance.now():-1;window.userStateXHR.addEventListener("load",function(){window.userStateXHRDuration=window.performance?window.performance.now()-a:-1},!1),window.sessionStateXHR=new XMLHttpRequest,window.sessionStateXHR.open("GET",s||"/api/session/state"),l&&window.sessionStateXHR.setRequestHeader("X-Figma-User-ID",l),window.sessionStateXHR.send()};let e="/preload-editor"===location.pathname||"/preload-android-proto"===location.pathname||"/file/new"===location.pathname||"/design/new"===location.pathname||"/slides/new"===location.pathname||"/board/new"===location.pathname,r=window.INITIAL_OPTIONS.editing_file&&window.INITIAL_OPTIONS.editing_file.key;o?window.startUserStateXHR(r):e||window.startUserStateXHR()}};function t(e){return"dark"===e?"1E1E1E":"F5F5F5"}function s(){let e=null;try{e=window.localStorage}catch(e){}return e}let r="global-debug-theme-preference";function l(e){return e?(null==e?void 0:e.getItem(r))||"system":null}let a="chunked-file-load",d=(e,i)=>{var s,d,c;let w=null==(s=window.INITIAL_OPTIONS.user_data)?void 0:s.id,I=window.INITIAL_OPTIONS.tracking_session_id,u=window.INITIAL_OPTIONS.release_manifest_git_commit,_=window.__figmaDesktop,p=null!=_&&(null==(c=null==(d=window.INITIAL_OPTIONS)?void 0:d.feature_flags)?void 0:c.desktop_mp_client_id)?_.clientID:null;window.mpGlobal={version:function(){var e,o,n;if(!(null==(o=null==(e=window.INITIAL_OPTIONS)?void 0:e.feature_flags)?void 0:o.manifest_commit_sha))return 122;let i=null==(n=window.INITIAL_OPTIONS)?void 0:n.cluster_name;if("staging"!==i&&"local"!==i)return 122;let t=window.location.search;if(t.includes("force-client-version")){let e=new URLSearchParams(t).get("force-client-version");if(e){let o=parseInt(e);if(!isNaN(o)&&o>0)return console.log(`!! Overriding client version to ${o}`),o}}return 122}(),sock:null,msgs:[],perfMetrics:[],shouldConnectToMultiplayer:e,url({fileKey:o,role:n,oauthToken:t,nodeIds:s,initialBgColor:r,suppressDecodeErrors:l,connectionType:d,tagForLogging:c,forceViewOnly:_,canvasQuerySkipContainers:h}){var f,g,m,v;if(!e)return"";let O=null;i&&o===i.fileKey&&i.targetFileVersion&&(O=i.targetFileVersion);let T="";("editor"===n||"viewerWithCpp"===n)&&s&&(T+=`&scenegraph-queries-initial-nodes=${s}`);let N=new URLSearchParams(window.location.search),S="true"===N.get("recovery"),L="true"===N.get("merge-on-file-open");"editor"!==n||(null==i?void 0:i.forceIncrementalForEditors)!==1||S||L?((null==i?void 0:i.forceIncrementalForEditors)===0||S||L)&&(T+="&use-incremental-for-editors=0"):T+="&use-incremental-for-editors=1","editor"===n&&(null==(f=window.INITIAL_OPTIONS.feature_flags)?void 0:f.incremental_loading_validation)&&(T+="&incremental-loading-validation=1");let A=1;try{let e=JSON.parse(sessionStorage.getItem("reload_times")||"[0]"),o=e[e.length-1];A=Date.now()-o<5e3?1:0}catch(e){}"editor"===n&&(null==(g=window.INITIAL_OPTIONS.feature_flags)?void 0:g.send_initial_bg_color)||(r="");let P=h;("prototype"===n||"viewer"===n)&&(null==(m=window.INITIAL_OPTIONS.feature_flags)?void 0:m.prototype_fix_sections_ifl)&&(P=!0);let y=(null==(v=window.INITIAL_OPTIONS.feature_flags)?void 0:v.chunked_file_load)&&"initial-load"===d,k=window.INITIAL_OPTIONS.e2e_traffic,R=window.INITIAL_OPTIONS.e2e_test_name;return`${location.protocol.replace("http","ws")}//${location.host}/api/multiplayer/${o}?role=${n}&tracking_session_id=${I}&version=${this.version}&recentReload=${A}&file-load-streaming-compression`+T+(t?"&oauth_token="+t:"")+(w?`&user-id=${w}`:"")+(O?`&target-file-version=${O}`:"")+(u?`&client_release=${u}`:"")+(r?`&initial-bg-color=${r}`:"")+(l?"&suppress-decode-errors":"")+(y?`&${a}`:"")+(y?"&chunk-size=5000":"")+(c?`&tag-for-logging=${c}`:"")+(k?"&e2e_traffic=true":"")+(R?`&e2e_test_name=${R}`:"")+(_?"&force-view-only":"")+(p?`&clientID=${p}`:"")+(P?"&canvas-query-skip-containers":"")},DEBUG_THEME_PREFERENCE_KEY:r,DARK_THEME_MEDIA_QUERY:o,themePreferenceFromLocalStorage:l,getBackgroundColorForTheme:t,getVisibleTheme:n,REQUEST_CHUNKED_FILE_LOAD_PARAM:a,preconnect(o){if(!1!==e){if(this.sock){if(o===this.sock.url&&this.sock.readyState!==WebSocket.CLOSED)return;try{this.sock.close()}catch(e){}}this.sock=new WebSocket(o),this.sock.binaryType="arraybuffer",this.sock.onopen=e=>{this.perfMetrics.push({key:"mp-ws-onopen",ts:performance.now(),nBytes:void 0})},this.sock.onmessage=e=>{let o=new Uint8Array(e.data);this.msgs.push(o),this.perfMetrics.push({key:"mp-ws-onmessage",ts:performance.now(),nBytes:o.length*o.BYTES_PER_ELEMENT})},this.msgs=[],this.perfMetrics=[]}}},i&&mpGlobal.preconnect(mpGlobal.url(i))},c=e=>{let o=()=>{let e=document.createElement("script");return e.type="text/javascript",e.async=!0,e.setAttribute("nonce",window.INITIAL_OPTIONS.csp_nonce),e.crossOrigin="anonymous",e},n=new Promise((n,i)=>{let t=o();t.onload=n,t.src=e,document.head.appendChild(t)});return n.catch(o=>console.error(`Fetching ${e} failed: ${o}`)),n};(()=>{var o,r,a,w,I,u,_,p,h,f,g,m;let{file_minimal_user_state:v,mock_user_state_for_tests_json:O,multiplayer_preconnect_options:T,omit_core_data:N,omit_user_state:S,preload_fullscreen_urls:L,should_connect_to_multiplayer:A,api_user_state_path:P,api_session_state_path:y}=window.EARLY_ARGS||{};if(window.INITIAL_OPTIONS||(window.INITIAL_OPTIONS={}),i(O,!!v,!!N,!!S,P,y),!/iPhone|iPad|iPod/.test(navigator.userAgent)){let n=null==(r=null==(o=window.INITIAL_OPTIONS)?void 0:o.feature_flags)?void 0:r.livegraph_connect_next,i=new URLSearchParams(null==(a=window.INITIAL_OPTIONS)?void 0:a.page_load_token);i.append("userId",(null==(I=null==(w=window.INITIAL_OPTIONS)?void 0:w.user_data)?void 0:I.id)||""),i.append("anonUserId",(null==(u=window.INITIAL_OPTIONS)?void 0:u.anonymous_user_id)||"");let t=!!window.__figmaDesktop;i.append("clientType",t?"desktop":"web"),i.append("clientUrl",document.URL),i.append("commitHash",(null==(_=window.INITIAL_OPTIONS)?void 0:_.release_manifest_git_commit)||"missing");let s=(null==(p=window.INITIAL_OPTIONS)?void 0:p.livegraph_preload_views)||{};i.append("preload",JSON.stringify(s));let l=function(e,o,n){let i,t;if(e)try{let o=new URL(e);t=o.protocol,i=o.host}catch(e){}return(void 0===i||void 0===t)&&("admin.staging.figma.com"===(i=location.host)||"embed.staging.figma.com"===i?i="staging.figma.com":("admin.figma.com"===i||"embed.figma.com"===i)&&(i="www.figma.com"),t=location.protocol),`${"https:"===t?"wss":"ws"}://${i}${o?"/api/livegraph-next":"/api/livegraph"}?${n}`}(null==(h=window.INITIAL_OPTIONS)?void 0:h.figma_url,!!n,i.toString()??"");window.LGEarlyWS=new e(l,void 0,()=>{window.LGEarlyWS=void 0})}if(T&&(T.initialBgColor=function(){var e;return(null==(e=window.INITIAL_OPTIONS.feature_flags)?void 0:e.send_initial_bg_color)?t(n(l(s()))):""}(),T.connectionType="initial-load",T.forceViewOnly=!1,((null==(f=window.INITIAL_OPTIONS)?void 0:f.cluster_name)==="staging"||(null==(g=window.INITIAL_OPTIONS)?void 0:g.cluster_name)==="local")&&(null==(m=s())?void 0:m.getItem("force-vscode"))?T.forceViewOnly=!0:T.forceViewOnly=(null==window?void 0:window.location.ancestorOrigins)&&[...window.location.ancestorOrigins].some(e=>e.startsWith("vscode-webview://"))),d(!1!==A,T),!L&&!/FigmaMobile-Android/.test(navigator.userAgent)&&((null==T?void 0:T.role)==="editor"||(null==T?void 0:T.role)==="viewerWithCpp"||(null==T?void 0:T.role)==="prototype")){let e=(null==T?void 0:T.role)==="prototype"?Fig.prototypeLibURLs:Fig.fullscreenURLs,o=fetch(e["compiled_wasm.wasm"]);o.catch(e=>console.error(`Fetching compiled_wasm.wasm failed: ${e}`));let n=c(e["compiled_wasm.js"]);window.FULLSCREEN_PRELOADS={wasm:o,js:n}}})()})();
+
+//# debugId=f72774d5-5e84-5da9-ad33-62e4ac82ba5f
+
+//# sourceMappingURL=https://admin.figma.com/admin/webpack-artifacts/56927435532d54f68a8a295579dc02eb69f6ddaa/early-4dda03c2dda74ad2.min.js.map
+  </script>
+
+
+
+    <meta name="google" content="notranslate">
+    <meta name="slack-app-id" content="A01N2QYSA81">
+
+    <title>youtube logo&nbsp;| Figma</title>
+
+    <style type="text/css">
+
+  /* This should be kept in sync with the $gridTileMinWidth CSS variable */
+  :root {
+    --file-grid-tile-min-width: 272px;
+  }
+
+  #filebrowser-loading-page {
+    opacity: 1;
+    -webkit-transition: opacity .2s ease-in-out;
+  }
+
+  .filebrowser-loading-page-layout {
+    display: flex;
+    flex-wrap: wrap;
+
+    /* Make sure the loading page is flush with the edges of the page so
+       our layout isnt affected by browser default margins/paddings */
+    position: absolute;
+    top: 48px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--color-bg, var(--fallback-color-bg, white));
+  }
+
+  #loading-content-pane {
+    opacity: 1;
+    -webkit-transition: opacity .4s ease-in-out;
+  }
+
+  #filebrowser-loading-page.fadeOut {
+    opacity: 0;
+  }
+
+  #filebrowser-loading-page.hidden {
+    display: none;
+    opacity: 0;
+  }
+
+  .filebrowser-loading-page .file-grid.create-file-grid {
+    margin: 24px 0px;
+    grid-gap: 32px;
+    background-color: var(--color-bg, white);
+  }
+
+  /* HAX: see loading-page-container in loading_spinner.tsx */
+  #loading-page-container .create-file-grid {
+    display: none;
+    background-color: var(--color-bg, white);
+  }
+  #loading-page-container .sort-dropdown {
+    margin-top: 0px;
+  }
+
+ /*
+  * HAX: The sidebar is cloned and used independently outside of this
+  * page so any styles like `.filebrowser-loading-page .thing` applied
+  * to sidebar sub-elements also need a selector like
+  * `.filebrowser-loading-sidebar .thing` so that they work outside of
+  * this page too.
+  */
+  .filebrowser-loading-page .row,
+  .filebrowser-loading-sidebar .row {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    border-radius: 3px;
+    height: 16px;
+  }
+
+  .filebrowser-loading-page .circle,
+  .filebrowser-loading-sidebar .circle {
+    border-radius: 3px;
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    width: 16px;
+    height: 16px;
+  }
+
+  .filebrowser-loading-page .row .circle,
+  .filebrowser-loading-sidebar .row .circle {
+    position: relative;
+    top: -1px;
+    left: -35px;
+  }
+
+  .filebrowser-loading-sidebar {
+    flex: 0 0 240px;
+    width: 240px;
+    background-color: var(--color-bg, white);
+    padding-top: 16px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .filebrowser-loading-page .navbar {
+    height: 48px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: var(--color-bg-toolbar, #2C2C2C);
+    z-index: 1;
+  }
+
+  .filebrowser-loading-sidebar .row {
+    width: 85px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    margin-left: 48px;
+  }
+
+  .filebrowser-loading-sidebar .row .circle {
+    position: relative;
+    top: -1px;
+    left: -35px;
+  }
+
+  .filebrowser-loading-page .divider,
+  .filebrowser-loading-sidebar .divider {
+    height: 1px;
+    background-color: var(--color-border, rgba(0, 0, 0, 0.1));
+    margin-top: 8px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .filebrowser-loading-sidebar .row:nth-child(7) { width: 40px; }
+  .filebrowser-loading-sidebar .row:nth-child(8) { width: 58px; }
+
+  .filebrowser-loading-sidebar .row:nth-last-child(1) { opacity: 0.4; width: 65px; }
+  .filebrowser-loading-sidebar .row:nth-last-child(2) { opacity: 0.4; width: 65px; }
+  .filebrowser-loading-sidebar .row:nth-last-child(3) { opacity: 0.8; width: 46px; }
+
+  .filebrowser-loading-page .page {
+    flex: 1 1;
+    box-sizing: border-box;
+    border-left: 1px var(--color-border, #e5e5e5) solid;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .filebrowser-loading-page .toolbar {
+    border-bottom: 1px var(--color-border, #e5e5e5) solid;
+    height: 48px;
+  }
+
+  .filebrowser-loading-page .toolbar .item {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    border-radius: 3px;
+    width: 85px;
+    height: 16px;
+    margin-left: 32px;
+    margin-top: 16px;
+  }
+
+  .filebrowser-loading-page .columns {
+    flex: 1 1;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 32px;
+  }
+
+  @media (max-width: 849px) {
+    .filebrowser-loading-page .columns {
+      flex-direction: column;
+    }
+
+    .filebrowser-loading-page .right-column {
+      padding-left: 32px;
+    }
+
+    .filebrowser-loading-page .public-header + .columns {
+      flex-direction: column-reverse;
+    }
+  }
+
+  .filebrowser-loading-page .content {
+    flex: 1 1;
+  }
+
+  .filebrowser-loading-page .sort-dropdown {
+    border-radius: 3px;
+    width: 86px;
+    padding: 16px 32px 32px 32px;
+  }
+
+  .filebrowser-loading-page .create-file-tile {
+    background-color: var(--color-bg-secondary, white);
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    height: 72px;
+    box-sizing: border-box;
+  }
+
+  @media (max-width: 832px) {
+    .filebrowser-loading-page .create-file-tile {
+      height: 48px;
+    }
+  }
+
+  @media (max-width: 645px) {
+    .filebrowser-loading-page .create-file-tile, .filebrowser-loading-page .sort-dropdown {
+      display: none;
+    }
+  }
+
+  .filebrowser-loading-page .create-file-tile .icon {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    border-radius: 2px;
+    margin-left: 16px;
+    margin-right: 16px;
+    height: 24px;
+    width: 24px;
+  }
+
+  .filebrowser-loading-page .create-file-tile .label {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    width: 132px;
+    height: 16px;
+    border-radius: 3px;
+  }
+
+  @media (max-width: 1440px) {
+   .filebrowser-loading-page .create-file-tile:nth-last-child(1) {
+     display: none;
+   }
+  }
+
+  .filebrowser-loading-page .tile {
+    height: 56px;
+    padding-top: 60%;
+    position: relative;
+  }
+
+  .filebrowser-loading-page .tile .inner {
+    position: absolute;
+    top: 2px;
+    bottom: 2px;
+    left: 2px;
+    right: 2px;
+    border: 1px solid var(--color-border, #e5e5e5);
+    border-radius: 6px;
+    background-color: var(--color-bg-secondary, #f0f0f0);
+  }
+
+  .filebrowser-loading-page .tile .inner .lower {
+    height: 56px;
+    background-color: var(--color-bg, white);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-radius: 0 0 6px 6px;
+  }
+
+  .filebrowser-loading-page .public-grid {
+    width: 100%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(var(--file-grid-tile-min-width), 1fr));
+    grid-gap: 32px;
+    padding-left: 32px;
+  }
+
+  @media (max-width: 1023px) {
+    .filebrowser-loading-page .public-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .filebrowser-loading-page .public-grid .tile {
+    height: 56px;
+    padding-top: 60%;
+  }
+
+  .filebrowser-loading-page .public-grid .tile:nth-child(6) { opacity: .8; }
+  .filebrowser-loading-page .public-grid .tile:nth-child(7) { opacity: .4; }
+
+  .filebrowser-loading-page .file-grid {
+    width: 100%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(var(--file-grid-tile-min-width), 1fr));
+    grid-gap: 32px;
+    padding-left: 32px;
+  }
+
+  .filebrowser-loading-page .file-grid .tile:nth-child(6) { opacity: .8; }
+  .filebrowser-loading-page .file-grid .tile:nth-child(7) { opacity: .4; }
+
+  .filebrowser-loading-page .team-grid {
+    width: 100%;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(264px, 1fr));
+    grid-gap: 32px 32px;
+    padding: 32px 0 0 32px;
+    align-content: start;
+  }
+
+  .filebrowser-loading-page .team-tile {
+    border: 1px solid var(--color-border, rgba(0, 0, 0, .1));
+    border-radius: 6px;
+    position: relative;
+    padding: 16px;
+  }
+
+  .filebrowser-loading-page .team-grid .team-tile:nth-child(6) { opacity: .8; }
+  .filebrowser-loading-page .team-grid .team-tile:nth-child(7) { opacity: .4; }
+
+  .filebrowser-loading-page .team-tile .row {
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+
+  .filebrowser-loading-page .team-tile .row:nth-child(1) {
+    width: 32px;
+    height: 32px;
+  }
+
+  .filebrowser-loading-page .team-tile .row:nth-child(2) {
+    width: 65px;
+    height: 30px;
+    position: absolute;
+    top: 17px;
+    right: 16px;
+    margin-top: 0;
+  }
+
+  .filebrowser-loading-page .team-tile .row:nth-child(3) {
+    width: 120px;
+    margin-top: 20px;
+  }
+  .filebrowser-loading-page .team-tile .row:nth-child(4) {
+    width: 232px;
+    margin-top: 12px;
+  }
+  .filebrowser-loading-page .team-tile .row:nth-child(5) {
+    width: 174px;
+    margin-top: 8px;
+  }
+
+  .filebrowser-loading-page .team-tile .circles {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .filebrowser-loading-page .team-tile .circle {
+    top: 0;
+    left: 0;
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+    margin-top: 22px;
+  }
+
+  .filebrowser-loading-page .public-header {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    width: 100%;
+    height: 240px;
+    margin-bottom: 80px;
+  }
+
+  .filebrowser-loading-page .profile-header {
+    background-color: var(--color-bg-secondary, #f0f0f0);
+    width: 100%;
+    height: 64px;
+  }
+
+  .filebrowser-loading-page .profile-grid {
+    padding: 32px;
+    display: grid;
+    grid-template-columns: 1fr 24px 1fr .75fr;
+    align-items: end;
+  }
+
+  .filebrowser-loading-page .profile-grid .row {
+    margin-top: 24px;
+  }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(4n+1) { width: 148px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(4n+3) { width: 56px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(4n+4) { width: 99px; }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(1) { width: 61px; margin-top: 0; }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(5) { width: 61px; margin-top: 32px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(7) { width: 69px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(8) { width: 51px; }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(9) { margin-top: 36px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(11) { width: 69px; }
+  .filebrowser-loading-page .profile-grid div:nth-child(12) { width: 72px; }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(25),
+  .filebrowser-loading-page .profile-grid div:nth-child(27),
+  .filebrowser-loading-page .profile-grid div:nth-child(28) { opacity: .8; }
+
+  .filebrowser-loading-page .profile-grid div:nth-child(29),
+  .filebrowser-loading-page .profile-grid div:nth-child(31),
+  .filebrowser-loading-page .profile-grid div:nth-child(32) { opacity: .4; }
+
+  @media(max-width: 1000px) {
+    .filebrowser-loading-page .profile-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .filebrowser-loading-page .profile-grid div:nth-child(5),
+    .filebrowser-loading-page .profile-grid div:nth-child(6),
+    .filebrowser-loading-page .profile-grid div:nth-child(7),
+    .filebrowser-loading-page .profile-grid div:nth-child(8),
+    .filebrowser-loading-page .profile-grid div:nth-child(4n+2),
+    .filebrowser-loading-page .profile-grid div:nth-child(4n+3),
+    .filebrowser-loading-page .profile-grid div:nth-child(4n+4) { display: none; }
+  }
+
+  .filebrowser-loading-page .project-grid {
+    padding-left: 32px;
+    display: grid;
+    grid-row-gap: 22px;
+  }
+
+  .filebrowser-loading-page .project-grid .card {
+    border: 1px solid var(--color-border, rgba(0, 0, 0, .1));
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 178px;
+    display: flex;
+  }
+
+  .filebrowser-loading-page .project-grid .card:nth-child(3) { opacity: .8; }
+  .filebrowser-loading-page .project-grid .card:nth-child(4) { opacity: .4; }
+
+  .filebrowser-loading-page .project-grid .card .left {
+    width: 196px;
+    margin: 16px;
+  }
+
+  .filebrowser-loading-page .project-grid .card .right {
+    flex: 1 1;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: hidden;
+    margin: 16px 0;
+  }
+
+  .filebrowser-loading-page .project-grid .card .left .row:nth-child(1) { width: 107px; }
+  .filebrowser-loading-page .project-grid .card .left .row:nth-child(2) { width: 164px; margin-top: 12px; }
+  .filebrowser-loading-page .project-grid .card .left .row:nth-child(3) { width: 145px; margin-top: 8px; }
+  .filebrowser-loading-page .project-grid .card .left .row:nth-child(4) { width: 158px; margin-top: 8px; }
+
+  .filebrowser-loading-page .project-grid .card .right .row {
+    height: 100%;
+    flex: 1 1 196px;
+    margin-right: 16px;
+    border-radius: 6px;
+  }
+
+  .filebrowser-loading-page .right-column {
+    flex: 0 0 304px;
+    margin-right: 16px;
+    margin-top: 16px;
+    box-sizing: border-box;
+    padding-left: 32px;
+  }
+
+  .filebrowser-loading-page .right-column .row:nth-child(1) {
+    margin-top: 16px;
+    width: 120px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(2) {
+    margin-top: 18px;
+    width: 272px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(3) {
+    margin-top: 8px;
+    width: 248px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(4) {
+    margin-top: 8px;
+    width: 272px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(5) {
+    margin-top: 8px;
+    width: 256px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(6) {
+    margin-top: 8px;
+    width: 200px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(7) {
+    margin-top: 35px;
+    width: 88px;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(8) {
+    margin-top: 22px;
+    margin-left: 51px;
+    width: 88px;
+    opacity: .8;
+  }
+  .filebrowser-loading-page .right-column .row:nth-child(9) {
+    margin-top: 18px;
+    margin-left: 51px;
+    width: 88px;
+    opacity: .4;
+  }
+
+  .filebrowser-loading-page .public-left-column {
+    padding: 0 0 32px 32px;
+    width: 320px;
+  }
+
+  .filebrowser-loading-page .public-left-column .row {
+    margin-top: 8px;
+  }
+
+  .filebrowser-loading-page .public-left-column .row:nth-child(1) {
+    width: 120px;
+    margin-top: 0;
+  }
+  .filebrowser-loading-page .public-left-column .row:nth-child(2) {
+    width: 272px;
+    margin-top: 18px;
+  }
+  .filebrowser-loading-page .public-left-column .row:nth-child(3) {
+    width: 248px;
+  }
+  .filebrowser-loading-page .public-left-column .row:nth-child(4) {
+    width: 272px;
+  }
+  .filebrowser-loading-page .public-left-column .row:nth-child(5) {
+    width: 256px;
+    opacity: .8;
+  }
+  .filebrowser-loading-page .public-left-column .row:nth-child(6) {
+    width: 200px;
+    opacity: .4;
+  }
+
+  /*
+  Note: Make sure any changes here are also duplicated in the fullscreen progress bar
+  (.progressBar in progress_bar.css)
+  */
+  #filebrowser-loading-progress-bar {
+    height: 5px;
+      background: var(--color-bg-brand, #0D99FF);
+    position: absolute;
+    left: 0;
+    animation: filebrowserloadingProgressBar 10s cubic-bezier(.08,.8,.1,1) forwards;
+  }
+
+  @keyframes filebrowserloadingProgressBar {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+
+  @media (max-width: 645px) {
+    .filebrowser-loading-sidebar {
+      display: none;
+    }
+
+    .filebrowser-loading-page .page {
+      margin-left: 0;
+      width: 100%;
+    }
+
+    .filebrowser-loading-page .public-header {
+      height: 120px;
+    }
+
+    .filebrowser-loading-page .file-grid {
+      grid-template-columns: 1fr;
+      max-width: 400px;
+      margin: 0 auto;
+      align-self: center;
+    }
+  }
+
+</style>
+
+
+
+      <meta name="mobile-web-app-capable" content="yes">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <meta property="og:title" content="youtube logo | Figma">
+    <meta property="og:site_name" content="Figma">
+
+    
+
+
+<link rel="icon" sizes="192x192" href="https://static.figma.com/uploads/1a667ef53b7c4837049399d0593ffca39e0bec9e">
+<link rel="icon" sizes="128x128" href="https://static.figma.com/uploads/b6df2735e4cb368306acf5480b50f96e69f96099">
+
+<link rel="icon" type="image/png" href="https://static.figma.com/app/icon/1/favicon.png">
+<!--[if IE]><link rel="shortcut icon" href="https://static.figma.com/app/icon/1/favicon.ico" type="image/vnd.microsoft.icon" /><![endif]-->
+<link rel="icon" sizes="any" type="image/svg+xml" href="https://static.figma.com/app/icon/1/favicon.svg">
+
+<link rel="apple-touch-icon" sizes="76x76" href="https://static.figma.com/app/icon/1/touch-76.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://static.figma.com/app/icon/1/touch-120.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://static.figma.com/app/icon/1/touch-152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="https://static.figma.com/app/icon/1/touch-167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://static.figma.com/app/icon/1/touch-180.png">
+
+
+
+
+        <link rel="preload" href="https://static.figma.com/uploads/2cca21a49f7dad1daa612d73d50357644671964a" as="font" crossorigin="anonymous">
+        <link rel="preload" href="https://static.figma.com/uploads/43d730c59dee2754d29e0d946ba8cb8339656979" as="font" crossorigin="anonymous">
+        <link rel="preload" href="https://static.figma.com/webfont/1/DSEG7Classic-Italic-Custom2.woff2" as="font" crossorigin="anonymous">
+
+      <link href="./youtbelogo_files/community-03692c56e114adb1.min.css.br" rel="stylesheet" crossorigin="anonymous">
+
+      <link rel="preload" as="fetch" id="englishDictionaryUrl" href="https://www.figma.com/webpack-artifacts/assets/community-489ae3d9640d77e6.min.en.json.br" crossorigin="anonymous">
+  <link crossorigin="anonymous" rel="prefetch" as="script" href="https://www.figma.com/webpack-artifacts/assets/vendor-ae4d60b654635a4d.min.js.br"><link crossorigin="anonymous" rel="prefetch" as="script" href="https://www.figma.com/webpack-artifacts/assets/525-42e78c33065e9871.min.js.br"><link crossorigin="anonymous" rel="prefetch" as="script" href="https://www.figma.com/webpack-artifacts/assets/709-4a78c75f821b3aa0.min.js.br"><link crossorigin="anonymous" rel="prefetch" as="script" href="https://www.figma.com/webpack-artifacts/assets/file_browser-1f72f95d102ea5a0.min.js.br"><link crossorigin="anonymous" rel="prefetch" as="script" href="https://www.figma.com/webpack-artifacts/assets/billing-5115fad91f473842.min.js.br"><link crossorigin="anonymous" rel="prefetch" as="script" href="https://www.figma.com/webpack-artifacts/assets/vendor-c1655354b0c44ed8.min.js.br"><link crossorigin="anonymous" rel="prefetch" as="script" href="https://www.figma.com/webpack-artifacts/assets/autosave-641c66f0412ce5d4.min.js.br"><link crossorigin="anonymous" rel="prefetch" as="script" href="https://www.figma.com/webpack-artifacts/assets/947-133fcec1d829e44f.min.js.br"><link crossorigin="anonymous" rel="prefetch" as="script" href="https://www.figma.com/webpack-artifacts/assets/805-c2f44c4979552ce0.min.js.br"><style data-emotion="css" data-s=""></style></head>
+  <body class="feature_flag_ds_updates_toast_deprecation feature_flag_ds_gradient_variables feature_flag_fpl_disabled_inner_clicks_button feature_flag_embedding_chunk_v12_writes feature_flag_embedding_chunk_v11_writes feature_flag_sc_update_folder_sa_disable_dry_run feature_flag_sc_update_folder_sa_disable_disable_lis feature_flag_dse_read_from_presets_table feature_flag_use_images_redis_cluster">
+      <div style="position: fixed; top: -1000px; left: -1000px;">
+        <div aria-hidden="true" id="font-ui-400-normal">a</div>
+        <div aria-hidden="true" id="font-ui-400-italic">a</div>
+        <div aria-hidden="true" id="font-ui-500-normal">a</div>
+        <div aria-hidden="true" id="font-ui-500-italic">a</div>
+        <div aria-hidden="true" id="font-ui-600-normal">a</div>
+        <div aria-hidden="true" id="font-ui-600-italic">a</div>
+
+        <div aria-hidden="true" id="font-ui-400-normal-white">a</div>
+      </div>
+
+    <div id="react-page"><div data-preferred-theme="light" style="color-scheme: light;"><div data-testid="statsig-comp-without-redux"><div data-testid="community-app" class="community_app--communityApp--kXC00"><div class="community_logged_out_nav--nav--HVdRr"><div class="cx_hidden--nmnnq"><a href="https://www.figma.com/community/category/libraries">libraries</a><a href="https://www.figma.com/community/category/ui-kits">ui-kits</a><a href="https://www.figma.com/community/category/wireframes">wireframes</a><a href="https://www.figma.com/community/category/design-templates">design-templates</a><a href="https://www.figma.com/community/category/desktop-apps-websites">desktop-apps-websites</a><a href="https://www.figma.com/community/category/mobile-apps">mobile-apps</a><a href="https://www.figma.com/community/category/presentations">presentations</a><a href="https://www.figma.com/community/category/resume-templates">resume-templates</a><a href="https://www.figma.com/community/category/portfolio-templates">portfolio-templates</a><a href="https://www.figma.com/community/category/design-tools">design-tools</a><a href="https://www.figma.com/community/category/accessibility">accessibility</a><a href="https://www.figma.com/community/category/editing-effects">editing-effects</a><a href="https://www.figma.com/community/category/file-organization">file-organization</a><a href="https://www.figma.com/community/category/import-export">import-export</a><a href="https://www.figma.com/community/category/prototyping-animation">prototyping-animation</a><a href="https://www.figma.com/community/category/visual-assets">visual-assets</a><a href="https://www.figma.com/community/category/fonts-typography">fonts-typography</a><a href="https://www.figma.com/community/category/illustrations">illustrations</a><a href="https://www.figma.com/community/category/shapes-colors">shapes-colors</a><a href="https://www.figma.com/community/category/stock-photography">stock-photography</a><a href="https://www.figma.com/community/category/whiteboarding">whiteboarding</a><a href="https://www.figma.com/community/category/brainstorming">brainstorming</a><a href="https://www.figma.com/community/category/diagramming">diagramming</a><a href="https://www.figma.com/community/category/fun-games">fun-games</a><a href="https://www.figma.com/community/category/strategic-planning">strategic-planning</a><a href="https://www.figma.com/community/category/team-meetings">team-meetings</a><a href="https://www.figma.com/community/category/education">education</a><a href="https://www.figma.com/community/category/development">development</a><a href="https://www.figma.com/community/category/icons">icons</a></div><div class="cx_absolute--doVhE cx_colorBg--XYMUF cx_zIndexMinus1--zaGGo cx_wFull--sGUhp cx_h48--w9bOm cx_bSolid--6-DiT cx_colorBorder--W0gXm cx_bb1--eO4Ji"></div><div class="cx_flex--2hUIC cx_flexRow--QnXvr cx_mr4--KIaEB"><div class="community_logged_out_nav--logoLinkWrapper--a02iE"><a href="https://www.figma.com/"><svg class="svg" width="38" height="57" viewBox="0 0 38 57" xmlns="http://www.w3.org/2000/svg"><path d="M19 28.5c0-5.247 4.253-9.5 9.5-9.5 5.247 0 9.5 4.253 9.5 9.5 0 5.247-4.253 9.5-9.5 9.5-5.247 0-9.5-4.253-9.5-9.5z" fill-rule="nonzero" fill-opacity="1" fill="#1abcfe" stroke="none"></path><path d="M0 47.5C0 42.253 4.253 38 9.5 38H19v9.5c0 5.247-4.253 9.5-9.5 9.5C4.253 57 0 52.747 0 47.5z" fill-rule="nonzero" fill-opacity="1" fill="#0acf83" stroke="none"></path><path d="M19 0v19h9.5c5.247 0 9.5-4.253 9.5-9.5C38 4.253 33.747 0 28.5 0H19z" fill-rule="nonzero" fill-opacity="1" fill="#ff7262" stroke="none"></path><path d="M0 9.5C0 14.747 4.253 19 9.5 19H19V0H9.5C4.253 0 0 4.253 0 9.5z" fill-rule="nonzero" fill-opacity="1" fill="#f24e1e" stroke="none"></path><path d="M0 28.5C0 33.747 4.253 38 9.5 38H19V19H9.5C4.253 19 0 23.253 0 28.5z" fill-rule="nonzero" fill-opacity="1" fill="#a259ff" stroke="none"></path></svg></a></div><a href="https://www.figma.com/community" class="community_logged_out_nav--navCommunityText--WlcfX text--fontPos13--xW8hS text--_fontBase--QdLsd"><span class="svg-container"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#000" fill-opacity=".9" fill-rule="evenodd" stroke="none" d="M9.018 16.5c.219 3.104 2.46 5.649 5.415 6.324-.81-1.325-1.365-3.646-1.427-6.324H9.018zM16 24c-4.418 0-8-3.582-8-8 0-4.418 3.582-8 8-8 4.418 0 8 3.582 8 8 0 4.418-3.582 8-8 8zM14.434 9.176c-2.955.675-5.197 3.22-5.416 6.324h3.988c.062-2.678.618-5 1.428-6.324zm3.133 0c2.954.675 5.196 3.22 5.415 6.324h-3.988c-.062-2.678-.618-5-1.427-6.324zm5.415 7.324h-3.988c-.062 2.678-.618 5-1.427 6.324 2.954-.675 5.196-3.22 5.415-6.324zm-5.797 4.806c.452-1.206.763-2.891.809-4.806h-3.988c.046 1.915.357 3.6.809 4.806.247.658.517 1.121.766 1.402.25.282.394.292.419.292.026 0 .17-.01.42-.292.248-.28.518-.744.765-1.402zm-2.37-10.612c-.452 1.205-.762 2.891-.809 4.806h3.988c-.046-1.915-.357-3.6-.809-4.806-.247-.658-.517-1.121-.765-1.402C16.17 9.01 16.024 9 16 9c-.025 0-.17.01-.42.292-.248.28-.518.744-.765 1.402z"></path></svg></span>Community</a></div><div class="community_logged_out_nav--navbarCategorySearchContainer--eOYmR"><div class="cx_hFull--460YR cx_flexGrow1--JL8fV cx_flexShrink1--zlAUs cx_flexBasis0--m-JoT"></div><div data-testid="nav-category-selector" class="cx_flex--2hUIC cx_flexRow--QnXvr cx_justifyCenter--HMVRW cx_flexBasisAuto--My8YJ cx_flexShrink0--oDaxb"><div><div class="dropdown--dropdown--IX0tU text--fontPos14--OL9Hp text--_fontBase--QdLsd" show-dropdown="false" tabindex="0" data-hover-dropdown="true"><a class="cx_colorText--u4HrT cx_noWrap--Qhe5d" href="https://www.figma.com/community/category/libraries"><div class="nav_category_selector--navCategorySelectorText--TdbiR text--fontPos13--xW8hS text--_fontBase--QdLsd">Libraries</div></a><div class="dropdown--dropdownContents--BqcL5" data-v-position="below" data-h-position="left" data-dropdown-contents="true"></div></div></div><div><div class="dropdown--dropdown--IX0tU text--fontPos14--OL9Hp text--_fontBase--QdLsd" show-dropdown="false" tabindex="0" data-hover-dropdown="true"><a class="cx_colorText--u4HrT cx_noWrap--Qhe5d" href="https://www.figma.com/community/category/design-templates"><div class="nav_category_selector--navCategorySelectorText--TdbiR text--fontPos13--xW8hS text--_fontBase--QdLsd">Design templates</div></a><div class="dropdown--dropdownContents--BqcL5" data-v-position="below" data-h-position="left" data-dropdown-contents="true"></div></div></div><div><div class="dropdown--dropdown--IX0tU text--fontPos14--OL9Hp text--_fontBase--QdLsd" show-dropdown="false" tabindex="0" data-hover-dropdown="true"><a class="cx_colorText--u4HrT cx_noWrap--Qhe5d" href="https://www.figma.com/community/category/whiteboarding"><div class="nav_category_selector--navCategorySelectorText--TdbiR text--fontPos13--xW8hS text--_fontBase--QdLsd">Whiteboarding</div></a><div class="dropdown--dropdownContents--BqcL5" data-v-position="below" data-h-position="left" data-dropdown-contents="true"></div></div></div><div><div class="dropdown--dropdown--IX0tU text--fontPos14--OL9Hp text--_fontBase--QdLsd" show-dropdown="false" tabindex="0" data-hover-dropdown="true"><div class="nav_category_selector--navCategorySelectorText--TdbiR text--fontPos13--xW8hS text--_fontBase--QdLsd">More</div><div class="dropdown--dropdownContents--BqcL5" data-v-position="below" data-h-position="left" data-dropdown-contents="true"></div></div></div></div><div class="cx_flexGrow1--JL8fV cx_flexShrink1--zlAUs cx_flexBasis0--m-JoT cx_hFull--460YR cx_flex--2hUIC cx_justifyEnd---syhU"><div><div class="community_logged_out_nav--searchInputDropdownWrapper--fLHQF dropdown--dropdown--IX0tU text--fontPos14--OL9Hp text--_fontBase--QdLsd" tabindex="0" data-disable-repositioning="true"><div class="cx_flex--2hUIC cx_flexRow--QnXvr cx_justifyEnd---syhU"><div class="cx_flex--2hUIC cx_alignCenter--DJGLH" style="min-width: 0px;"><div class="cx_wFull--sGUhp cx_flex--2hUIC cx_justifyEnd---syhU" role="button" tabindex="0"><span class="svg-container"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#000" fill-opacity=".9" fill-rule="evenodd" stroke="none" d="M19.103 15.052c0 1.961-1.59 3.551-3.551 3.551-1.962 0-3.552-1.59-3.552-3.551 0-1.962 1.59-3.552 3.552-3.552 1.961 0 3.551 1.59 3.551 3.552zm-.706 3.553c-.78.625-1.768.998-2.845.998-2.514 0-4.552-2.037-4.552-4.551 0-2.514 2.038-4.552 4.552-4.552 2.514 0 4.551 2.038 4.551 4.552 0 1.077-.373 2.066-.999 2.846l3.25 3.249-.708.707-3.249-3.25z"></path></svg></span></div></div></div><button class="dropdown--mobileBackground--WSE2Z"></button><div class="dropdown--dropdownContents--BqcL5" data-v-position="below" data-h-position=""></div></div></div></div></div><div class="community_logged_out_nav--authButtonContainer--RMKTV"><button class="community_logged_out_nav--logInButton---e3KN community_logged_out_nav--_button--NRif5 text--fontPos11--2LvXf text--_fontBase--QdLsd" type="button">Log in</button><button class="community_logged_out_nav--signUpButton--nn73B text--fontPos11--2LvXf text--_fontBase--QdLsd community_logged_out_nav--_button--NRif5" type="button">Sign up</button></div></div><div class="resource_page--resourcePage--n6Aio text--fontPos14--OL9Hp text--_fontBase--QdLsd"><div class="two_column_resource_page--autoLayoutContainer--odI-S"><div class="css-18cpayt"><div class="two_column_resource_page--leftSideRedesign--W3m0M"><div class="cx_relative--iykXj"><div class="basic_resource_header--headerContainer--YYSPX"><div class="basic_resource_header--authors--1PIBq text--fontPos13--xW8hS text--_fontBase--QdLsd"><div class="resource_page_header--resourceHeaderAvatarWrapper--nn-w8" data-testid="resource-header-avatar-0"><a href="https://www.figma.com/@govindswamy"><div data-layer="type=Image,size=Large" class="css-1kvqf6m resource_page_header--resourceHeaderAvatar--FI-3x"><div class="css-grg6tf fg-absolute"></div></div></a><div class="resource_page_header--resourceHeaderFigmaPartnerBadge--cgvkO" style="z-index: 3;"></div></div><span class="resource_page_header--authorHiddenOverflow--hoVA5"><div class="resource_header_creators--authorLabelContainer--bKsON text--fontPos13--xW8hS text--_fontBase--QdLsd resource_header_creators--authorContainerSmallWidth--PFZaH"><a class="resource_header_creators--authorNameOverflow--b2EnA" target="_self" href="https://www.figma.com/@govindswamy">govindswamy</a></div></span></div><div class="basic_resource_header--title_badge_container--vH8BZ"><div class="basic_resource_header--title--9jW4i text--fontPos24--YppUD text--_fontBase--QdLsd ellipsis--ellipsisAfter3Lines--h405C ellipsis--_ellipsisAfterNLines--LzI7k"><h1>youtube logo</h1></div></div><div class="basic_resource_header--stats--U1D-b text--fontPos13--xW8hS text--_fontBase--QdLsd" data-testid="resource-header-stats"><div>Design file</div><div class="basic_resource_header--bulletSeparator--OGYaL text--fontPos10--s1PI5 text--_fontBase--QdLsd">•</div><button><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.99988 4.5L7.3254 3.96042C6.28613 3.129 4.78791 3.21198 3.84681 4.15308C2.82678 5.17311 2.82678 6.8269 3.84681 7.84693L7.99988 12L12.153 7.84693C13.173 6.8269 13.173 5.17311 12.153 4.15308C11.2119 3.21198 9.71364 3.129 8.67437 3.96042L7.99988 4.5ZM7.99988 10.5858L11.4459 7.13982C12.0754 6.51032 12.0754 5.48969 11.4459 4.86018C10.8651 4.27939 9.94044 4.22818 9.29906 4.74129L7.99988 5.78063L6.70071 4.74128C6.05933 4.22818 5.13471 4.27939 4.55391 4.86018C3.92441 5.48969 3.92441 6.51032 4.55392 7.13982L7.99988 10.5858Z" fill="black"></path></svg></button><div class="basic_resource_header--numberOfUsers--oWoBg">3</div><div class="basic_resource_header--bulletSeparator--OGYaL text--fontPos10--s1PI5 text--_fontBase--QdLsd">•</div><span class="svg-container"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 12 16"><path fill="#000" fill-opacity="1" fill-rule="evenodd" stroke="none" d="M8 5c0 1.105-.895 2-2 2-1.105 0-2-.895-2-2 0-1.105.895-2 2-2 1.105 0 2 .895 2 2zm1 0c0 1.657-1.343 3-3 3-1.657 0-3-1.343-3-3 0-1.657 1.343-3 3-3 1.657 0 3 1.343 3 3zM5 9c-2.21 0-4 1.79-4 4h1c0-1.657 1.343-3 3-3h2c1.657 0 3 1.343 3 3h1c0-2.21-1.79-4-4-4H5z"></path></svg></span><div class="basic_resource_header--numberOfUsers--oWoBg">759 users</div></div><div class="basic_resource_header--ctaContainer--k8wqG"><button class="cta_button--duplicateButtonContainerNoIcon--t9Vxs cta_button--duplicateButtonContainer--GU-rX cta_button--buttonBase--xMT0c text--fontNeg14--ARPWl text--_fontBase--QdLsd text--_negText--j9g-L"><div class="cta_button--textIconContainer--wV-ch">Open in Figma</div></button></div></div></div></div><div class="two_column_resource_page--rightSideRedesignFallbackThumbnail--Ydb1e two_column_resource_page--rightSideRedesign--KsU3v"><div class="two_column_resource_page--heroImageWrapper--3YT8v" role="button" tabindex="-1"><div class="two_column_resource_page--heroImage--kbi4f"><div class="two_column_resource_page--carouselImage--zn-4P"><img sizes="(min-width: 2048px) 50vw, 100vw" srcset="https://s3-alpha.figma.com/hub/file/2729732820/resized/160x96/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png 160w, https://s3-alpha.figma.com/hub/file/2729732820/resized/800x480/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png 800w, https://s3-alpha.figma.com/hub/file/2729732820/resized/1200x720/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png 1200w, https://s3-alpha.figma.com/hub/file/2729732820/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png 1600w" src="./youtbelogo_files/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png" alt="youtube logo preview" class="two_column_resource_page--hubFileTileFullInnerImage--wTGoE two_column_resource_page--hubFileTileInnerImage--7d063" loading="lazy"></div><div class="two_column_resource_page--carouselImageShadow--99loM"></div></div><div class="two_column_resource_page--heroImageFullScreenIcon--369AG"><span class="svg-container" style="fill: var(--color-icon-menu, var(--fallback-color-icon-menu));"><svg class="svg" title="full screen enter 32" aria-label="full screen enter 32" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#000" fill-opacity=".9" fill-rule="evenodd" stroke="none" d="m18.354 14.354 3.185-3.186.461-.834V14h1V9h-5v1h3.596l-.753.45-3.197 3.196.708.708zm-4.708 3.292-3.185 3.186-.461.834V18H9v5h5v-1h-3.597l.754-.45 3.197-3.196-.708-.708z"></path></svg></span></div></div><div class="two_column_resource_page--scrollSentinel--B3rnT"></div></div></div></div><div class=""><div class="meta_container--metaTabContainer--lvUtb"><button><div class="meta_container--metaTab--zRKXG text--fontPos14--OL9Hp text--_fontBase--QdLsd meta_container--selectedMetaTab--5IRWQ meta_container--metaTab--zRKXG text--fontPos14--OL9Hp text--_fontBase--QdLsd">About</div></button><button><div class="meta_container--metaTab--zRKXG text--fontPos14--OL9Hp text--_fontBase--QdLsd">Comments <span class="meta_container--metaTabCommentCount--B1a21">0</span></div></button></div><div class="meta_container--metaContainerDivider--ZXFZP"><div class="meta_container--metaContainerDividerSpacer--OW9jB"></div></div><div class="meta_container--tabbedMetaContainer--DJyPv meta_container--metaContainer--kaSwh"><div class="meta_container--leftSide--KSlX8" id="descriptionViewSection"><h3 class="cx_font14--Xqlzv cx_fontSemiBold--9BZOe cx_mb16--7oeAe">Preview</h3><div class="canvas_viewer--canvasViewerWrapper--PEx4d canvas_viewer--smallEmbed--1di1B" data-loaded="true"><div class="canvas_viewer--canvasViewer--aDA8H"><div class="canvas_viewer--hubFileLoadingCoverImage--2onuq canvas_viewer--resourceLoadingCoverImage--e9uBx"><div class="resource_tiles--hubFileThumbnailImage--rKmoo" style="background-color: rgb(255, 250, 250);"><img sizes="(min-width: 2048px) 50vw, 100vw" srcset="https://s3-alpha.figma.com/hub/file/2729732820/resized/160x96/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png 160w, https://s3-alpha.figma.com/hub/file/2729732820/resized/800x480/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png 800w, https://s3-alpha.figma.com/hub/file/2729732820/resized/1200x720/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png 1200w, https://s3-alpha.figma.com/hub/file/2729732820/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png 1600w" src="./youtbelogo_files/69ab2bc1-7dda-4bf6-ac0b-adcb3e70b063-cover.png" alt="youtube logo preview" class="resource_tiles--hubFileTileInnerImage--Cu7WP" loading="lazy"></div></div><div class="canvas_viewer--iframeWrapper--eemgJ"><iframe title="Community resource preview" src="./youtbelogo_files/embed.html" allowfullscreen="" class="canvas_viewer--showIframe--uYOO5" style="width: 100%; height: 100%;"></iframe><svg aria-label="Open" class="canvas_viewer--fullscreenIcon--ew-9d" width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M14.54 4.168l-3.187 3.186-.708-.708 3.197-3.197.753-.449H11V2h5v5h-1V3.334l-.46.834zM3.46 13.832l3.186-3.186.708.708-3.198 3.197-.752.449H7v1H2v-5h1v3.666l.46-.834z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></div><div role="button" tabindex="0" class="canvas_viewer--iframeBackdrop--1sZT3"></div></div></div><hr class="cx_mt24--doW-1 cx_mb24--qRmgt"><div class="related_content--relatedContent--TYPp2"><div class="related_content--relatedContentHeader--gjj-d text--fontPos14--OL9Hp text--_fontBase--QdLsd"><div class="related_content--relatedContentTitle--uylYw">More by this creator</div></div><div class="related_content--relatedContentTilesContainer--L8KiC"><a href="https://www.figma.com/community/file/1188713279801188188/working-model" class="related_content--relatedContentTile--gwfdU"><div class="related_content--relatedContentTileImage--0IZ1a" style="background-color: rgb(255, 251, 251);"><div class="resource_tiles--hubFileThumbnailImage--rKmoo"><img sizes="(min-width: 736px) 50vw, (min-width: 1088px) 33vw, (min-width: 1440px) 25vw, 100vw" srcset="https://s3-alpha.figma.com/hub/file/2727760328/resized/160x96/04027320-237c-4c71-b205-66baf9ca579b-cover.png 160w, https://s3-alpha.figma.com/hub/file/2727760328/resized/800x480/04027320-237c-4c71-b205-66baf9ca579b-cover.png 800w, https://s3-alpha.figma.com/hub/file/2727760328/resized/1200x720/04027320-237c-4c71-b205-66baf9ca579b-cover.png 1200w, https://s3-alpha.figma.com/hub/file/2727760328/04027320-237c-4c71-b205-66baf9ca579b-cover.png 1600w" src="./youtbelogo_files/04027320-237c-4c71-b205-66baf9ca579b-cover.png" alt="working model" class="resource_tiles--hubFileTileInnerImage--Cu7WP" loading="lazy"></div><div data-tooltip-type="text" data-tooltip="For Figma" class="editor_type_badge--editorBadge--NNcQV" data-testid="editor-type-badge-figma"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3022_62357)"><rect width="24" height="24" rx="4" fill="#0D99FF"></rect><path fill-rule="evenodd" clip-rule="evenodd" d="M12.9464 7.68575L12.9346 7.68238L6.56175 5.86133L10.8434 10.151C11.0417 10.0543 11.2645 10 11.5 10C12.3284 10 13 10.6716 13 11.5C13 12.3284 12.3284 13 11.5 13C10.6716 13 10 12.3284 10 11.5C10 11.2723 10.0507 11.0565 10.1415 10.8632L5.86781 6.58163L7.61385 12.6858L7.62457 12.7232L7.63233 12.7614C8.035 14.7403 9.78217 16.2262 11.8709 16.2262C12.3463 16.2262 12.8019 16.1497 13.2273 16.009L13.8132 15.8152L14.2492 16.2521L16.015 18.0218L18.026 16.0063L16.239 14.2155L15.81 13.7855L15.9938 13.2065C16.1254 12.7921 16.1968 12.3497 16.1968 11.8886C16.1968 9.86928 14.8204 8.17187 12.9583 7.68883L12.9464 7.68575ZM19.4386 16.0063L16.7213 18.7297L16.0151 19.4374L16.015 19.4375L16.0149 19.4374L15.3086 18.7297L13.5413 16.9584C13.0159 17.1322 12.4544 17.2262 11.8709 17.2262C9.29588 17.2262 7.14769 15.3948 6.65241 12.9608L4.44897 5.2576L4.125 4.125L5.25769 4.44867L13.2093 6.72087C15.5029 7.31583 17.1968 9.40395 17.1968 11.8886C17.1968 12.4536 17.1092 12.9981 16.9469 13.5092L19.4386 16.0063Z" fill="var(--color-icon-ondesign, white)"></path></g><defs><clippath id="clip0_3022_62357"><rect width="24" height="24" fill="white"></rect></clippath></defs></svg></div></div><div class="related_content--relatedContentTileTitle--DJQmt text--fontPos13--xW8hS text--_fontBase--QdLsd">working model</div></a><a href="https://www.figma.com/community/file/1182912701376688742/play-store" class="related_content--relatedContentTile--gwfdU"><div class="related_content--relatedContentTileImage--0IZ1a" style="background-color: rgb(255, 248, 248);"><div class="resource_tiles--hubFileThumbnailImage--rKmoo"><img sizes="(min-width: 736px) 50vw, (min-width: 1088px) 33vw, (min-width: 1440px) 25vw, 100vw" srcset="https://s3-alpha.figma.com/hub/file/2729763122/resized/160x96/fff91872-0fdb-44bc-a6b4-77f0b38e39c7-cover.png 160w, https://s3-alpha.figma.com/hub/file/2729763122/resized/800x480/fff91872-0fdb-44bc-a6b4-77f0b38e39c7-cover.png 800w, https://s3-alpha.figma.com/hub/file/2729763122/resized/1200x720/fff91872-0fdb-44bc-a6b4-77f0b38e39c7-cover.png 1200w, https://s3-alpha.figma.com/hub/file/2729763122/fff91872-0fdb-44bc-a6b4-77f0b38e39c7-cover.png 1600w" src="./youtbelogo_files/fff91872-0fdb-44bc-a6b4-77f0b38e39c7-cover.png" alt="play store" class="resource_tiles--hubFileTileInnerImage--Cu7WP" loading="lazy"></div><div data-tooltip-type="text" data-tooltip="For Figma" class="editor_type_badge--editorBadge--NNcQV" data-testid="editor-type-badge-figma"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3022_62357)"><rect width="24" height="24" rx="4" fill="#0D99FF"></rect><path fill-rule="evenodd" clip-rule="evenodd" d="M12.9464 7.68575L12.9346 7.68238L6.56175 5.86133L10.8434 10.151C11.0417 10.0543 11.2645 10 11.5 10C12.3284 10 13 10.6716 13 11.5C13 12.3284 12.3284 13 11.5 13C10.6716 13 10 12.3284 10 11.5C10 11.2723 10.0507 11.0565 10.1415 10.8632L5.86781 6.58163L7.61385 12.6858L7.62457 12.7232L7.63233 12.7614C8.035 14.7403 9.78217 16.2262 11.8709 16.2262C12.3463 16.2262 12.8019 16.1497 13.2273 16.009L13.8132 15.8152L14.2492 16.2521L16.015 18.0218L18.026 16.0063L16.239 14.2155L15.81 13.7855L15.9938 13.2065C16.1254 12.7921 16.1968 12.3497 16.1968 11.8886C16.1968 9.86928 14.8204 8.17187 12.9583 7.68883L12.9464 7.68575ZM19.4386 16.0063L16.7213 18.7297L16.0151 19.4374L16.015 19.4375L16.0149 19.4374L15.3086 18.7297L13.5413 16.9584C13.0159 17.1322 12.4544 17.2262 11.8709 17.2262C9.29588 17.2262 7.14769 15.3948 6.65241 12.9608L4.44897 5.2576L4.125 4.125L5.25769 4.44867L13.2093 6.72087C15.5029 7.31583 17.1968 9.40395 17.1968 11.8886C17.1968 12.4536 17.1092 12.9981 16.9469 13.5092L19.4386 16.0063Z" fill="var(--color-icon-ondesign, white)"></path></g><defs><clippath id="clip0_3022_62357"><rect width="24" height="24" fill="white"></rect></clippath></defs></svg></div></div><div class="related_content--relatedContentTileTitle--DJQmt text--fontPos13--xW8hS text--_fontBase--QdLsd">play store</div></a><a href="https://www.figma.com/community/file/1182911837704380004/google-logo" class="related_content--relatedContentTile--gwfdU"><div class="related_content--relatedContentTileImage--0IZ1a" style="background-color: rgb(255, 251, 251);"><div class="resource_tiles--hubFileThumbnailImage--rKmoo"><img sizes="(min-width: 736px) 50vw, (min-width: 1088px) 33vw, (min-width: 1440px) 25vw, 100vw" srcset="https://s3-alpha.figma.com/hub/file/2729744958/resized/160x96/2a5758d6-4edb-4047-87bb-e6b94dbbbab0-cover.png 160w, https://s3-alpha.figma.com/hub/file/2729744958/resized/800x480/2a5758d6-4edb-4047-87bb-e6b94dbbbab0-cover.png 800w, https://s3-alpha.figma.com/hub/file/2729744958/resized/1200x720/2a5758d6-4edb-4047-87bb-e6b94dbbbab0-cover.png 1200w, https://s3-alpha.figma.com/hub/file/2729744958/2a5758d6-4edb-4047-87bb-e6b94dbbbab0-cover.png 1600w" src="./youtbelogo_files/2a5758d6-4edb-4047-87bb-e6b94dbbbab0-cover.png" alt="google logo" class="resource_tiles--hubFileTileInnerImage--Cu7WP" loading="lazy"></div><div data-tooltip-type="text" data-tooltip="For Figma" class="editor_type_badge--editorBadge--NNcQV" data-testid="editor-type-badge-figma"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_3022_62357)"><rect width="24" height="24" rx="4" fill="#0D99FF"></rect><path fill-rule="evenodd" clip-rule="evenodd" d="M12.9464 7.68575L12.9346 7.68238L6.56175 5.86133L10.8434 10.151C11.0417 10.0543 11.2645 10 11.5 10C12.3284 10 13 10.6716 13 11.5C13 12.3284 12.3284 13 11.5 13C10.6716 13 10 12.3284 10 11.5C10 11.2723 10.0507 11.0565 10.1415 10.8632L5.86781 6.58163L7.61385 12.6858L7.62457 12.7232L7.63233 12.7614C8.035 14.7403 9.78217 16.2262 11.8709 16.2262C12.3463 16.2262 12.8019 16.1497 13.2273 16.009L13.8132 15.8152L14.2492 16.2521L16.015 18.0218L18.026 16.0063L16.239 14.2155L15.81 13.7855L15.9938 13.2065C16.1254 12.7921 16.1968 12.3497 16.1968 11.8886C16.1968 9.86928 14.8204 8.17187 12.9583 7.68883L12.9464 7.68575ZM19.4386 16.0063L16.7213 18.7297L16.0151 19.4374L16.015 19.4375L16.0149 19.4374L15.3086 18.7297L13.5413 16.9584C13.0159 17.1322 12.4544 17.2262 11.8709 17.2262C9.29588 17.2262 7.14769 15.3948 6.65241 12.9608L4.44897 5.2576L4.125 4.125L5.25769 4.44867L13.2093 6.72087C15.5029 7.31583 17.1968 9.40395 17.1968 11.8886C17.1968 12.4536 17.1092 12.9981 16.9469 13.5092L19.4386 16.0063Z" fill="var(--color-icon-ondesign, white)"></path></g><defs><clippath id="clip0_3022_62357"><rect width="24" height="24" fill="white"></rect></clippath></defs></svg></div></div><div class="related_content--relatedContentTileTitle--DJQmt text--fontPos13--xW8hS text--_fontBase--QdLsd">google logo</div></a></div></div><hr><div id="commentsViewSection"><div><div class="comments--commentsCompose--p3mo8"><div data-layer="type=Letter,size=Large" class="css-1bpj3d1"><div data-layer="letter" class="css-1mdxw0f">A</div><div class="css-grg6tf fg-absolute"></div></div><input class="comments--commentInput--kkBGt text--fontPos14--OL9Hp text--_fontBase--QdLsd" type="text" placeholder="Add a comment"><button class="comments--commentPostButton--Wuf4b resource_page--_button--bbmLM text--fontPos11--2LvXf text--_fontBase--QdLsd" disabled="">Post</button></div><div class="comments--commentsHeader--EotVR text--fontPos11--2LvXf text--_fontBase--QdLsd"><div>0 comments</div></div><div style="width: 0px; height: 0px;"></div></div></div></div><div class="meta_container--rightSide--FQNL-"><div class="community_promo_banner--communityPromoBanner--Fw0nK text--fontPos11--2LvXf text--_fontBase--QdLsd"><svg class="svg" width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M19.569 9.064c-1.684 1.235-3.677 1.967-5.749 2.12-.315-.69-1.012-1.17-1.82-1.17H8c-1.105 0-2 .896-2 2v4c0 1.105.895 2 2 2h.333l1.211 3.633c.272.816 1.037 1.367 1.897 1.367h1.172c.682 0 1.164-.668.948-1.316l-1.236-3.71c.667-.109 1.223-.548 1.495-1.143 2.072.153 4.065.885 5.749 2.12l.635.466c.33.242.796.006.796-.404V9.002c0-.41-.465-.646-.796-.403l-.635.466zm-8.29 8.95H9.387l1.106 3.316c.136.409.518.684.948.684h1.172l-1.334-4zm.721-1c.552 0 1-.447 1-1v-4c0-.552-.448-1-1-1H8c-.552 0-1 .448-1 1v4c0 .553.448 1 1 1h4zm2-1.159v-3.682c2.155-.179 4.228-.932 6-2.187v8.057c-1.772-1.256-3.845-2.009-6-2.188zM24.5 14c0-.828-.672-1.5-1.5-1.5v-1c1.38 0 2.5 1.12 2.5 2.5 0 1.38-1.12 2.5-2.5 2.5v-1c.828 0 1.5-.672 1.5-1.5z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg><div><b>This is a Figma Community file.</b>&nbsp;Community is a space for Figma users to share things they create. <a href="https://www.figma.com/signup">Get started with a free account →</a></div></div><h3 class="social_links--socialLinksHeader--cm9hk text--fontPos14--OL9Hp text--_fontBase--QdLsd">Share</h3><div class="social_links--socialLinksContainer--ZOvGc"><div class="social_links--socialLink--bFTcE resource_page--pill--LyX8G" role="button" tabindex="0"><svg class="svg" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M5.525 13.657l2.652-2.652.707.707-2.652 2.652c-1.269 1.27-3.327 1.27-4.596 0-1.27-1.27-1.27-3.327 0-4.596l2.652-2.652.707.707-2.652 2.652c-.879.879-.879 2.303 0 3.182.879.879 2.303.879 3.182 0zm6.187-4.773l-.707-.707 2.652-2.652c.879-.879.879-2.303 0-3.182-.879-.879-2.303-.879-3.182 0L7.823 4.995l-.707-.707 2.652-2.652c1.269-1.27 3.327-1.27 4.596 0 1.27 1.27 1.27 3.327 0 4.596l-2.652 2.652zm-5.45 1.62l4.242-4.242-.766-.766-4.242 4.242.766.766z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></div><a class="social_links--socialLink--bFTcE resource_page--pill--LyX8G" href="https://twitter.com/intent/tweet?url=https://www.figma.com/community/file/1182909538538211933/youtube-logo&amp;text=Check%20out%20youtube%20logo%20by%20govindswamy%20on%20%40figma%3A" target="_blank"><svg class="svg" width="16" height="16" fill="none" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M9.47 6.77 15.3 0h-1.4L8.85 5.88 4.81 0H.15l6.11 8.9L.15 16h1.38l5.35-6.21L11.14 16h4.67L9.47 6.77Zm-1.9 2.2-.61-.88-4.93-7.05h2.12l3.98 5.69.62.88 5.17 7.4h-2.13L7.58 8.97Z" fill-rule="nonzero" fill-opacity="1" fill="#000" stroke="none"></path></svg></a><a class="social_links--socialLink--bFTcE resource_page--pill--LyX8G" href="https://www.facebook.com/sharer/sharer.php?u=https://www.figma.com/community/file/1182909538538211933/youtube-logo" target="_blank"><svg class="svg" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M.883 0h14.234c.488 0 .883.395.883.883v14.234c0 .488-.395.883-.883.883H.883C.395 16 0 15.605 0 15.117V.883C0 .395.395 0 .883 0zM11.04 9.804V16H8.546V9.806H6.461V7.39h2.085v-1.78c0-2.067 1.262-3.192 3.107-3.192.622-.003 1.244.03 1.863.095v2.158h-1.277c-1.005 0-1.2.476-1.2 1.176v1.54h2.392l-.31 2.416H11.04z" fill-rule="evenodd" fill-opacity="1" fill="#000" stroke="none"></path></svg></a></div><div class="metadata--metadataContainer--lqQo2 text--fontPos13--xW8hS text--_fontBase--QdLsd" data-testid="metadata-container"><div class="resource_page_metadata_badge--badgesContainer--heM3E text--fontPos13--xW8hS text--_fontBase--QdLsd"><div class="cx_flex--2hUIC cx_gap8--RCB1- cx_itemsCenter--4Ybl3 cx_font13--8jc6I"><div data-tooltip-type="text" data-tooltip="For Figma" class="editor_type_badge--editorBadge16--jRVOy" data-testid="editor-type-badge-figma"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path class="file_icons--designFilePrimary---6B-O" d="M1 3C1 1.89543 1.89543 1 3 1H13C14.1046 1 15 1.89543 15 3V13C15 14.1046 14.1046 15 13 15H3C1.89543 15 1 14.1046 1 13V3Z"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M8.42809 5.94824L8.4163 5.94487L5.93954 5.23713L7.81094 7.11265C7.84908 7.10727 7.88805 7.10449 7.92768 7.10449C8.38608 7.10449 8.75769 7.47692 8.75769 7.93634C8.75769 8.39576 8.38608 8.76819 7.92768 8.76819C7.46927 8.76819 7.09766 8.39576 7.09766 7.93634C7.09766 7.89736 7.10033 7.859 7.10551 7.82144L5.24201 5.95383L5.90568 8.27402L5.91639 8.31146L5.92416 8.34963C6.11456 9.28536 6.94108 9.98642 7.92622 9.98642C8.15158 9.98642 8.36652 9.95019 8.56673 9.88397L9.15269 9.69017L9.58863 10.1271L10.2943 10.8343L10.838 10.2893L10.1189 9.56871L9.68985 9.13868L9.87373 8.55969C9.93575 8.36438 9.96962 8.15529 9.96962 7.93633C9.96962 6.98187 9.3191 6.17937 8.43996 5.95132L8.42809 5.94824ZM12.2506 10.2893L11.0006 11.5421L10.2943 12.25L9.58793 11.5421L8.88074 10.8334C8.58052 10.9327 8.25963 10.9864 7.92622 10.9864C6.45479 10.9864 5.22725 9.9399 4.94424 8.54903L3.82397 4.6326L3.5 3.5L4.63269 3.82367L8.69105 4.98335C10.0017 5.32333 10.9696 6.51654 10.9696 7.93633C10.9696 8.25918 10.9196 8.57032 10.8268 8.86238L12.2506 10.2893Z" fill="var(--color-icon-ondesign, white)"></path></svg></div><div>For Figma</div></div></div><div class="metadata_section--metadataSection--3wssk ellipsis--ellipsis--Tjyfa"><div class="metadata_section--metadataSectionText--7ruPx text--fontPos13--xW8hS text--_fontBase--QdLsd"><div>Last updated <span class="">1 year ago</span></div><div class="metadata--supportInfo--bQ8pM ellipsis--ellipsis--Tjyfa">Support: <a href="mailto:govindswamy567@gmail.com" class="metadata--shareLinkText--IDDPA" target="_blank" rel="nooppener noreferrer">govindswamy567@gmail.com</a></div><div class="metadata--licensing--0Rs3a">Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" class="basic_form--inlineLink---UZ4A blue_link--blueLink--9rlnd " rel="noopener">CC BY 4.0</a></div></div></div><a href="mailto:content-reviews@figma.com" class="metadata--flagAsInappropriate--D5SPq">Report resource</a></div></div></div></div><div class="resource_page--footerContainer--bAm54"><div class="footer--footer--tuKBS text--fontPos13--xW8hS text--_fontBase--QdLsd" data-testid="community-footer"><div class="footer--sectionsContainer--BR5as"><div class="css-18h1jy7"><div class="footer--sectionTitle--pM53E">Popular searches</div><a href="https://www.figma.com/community/category/resume-templates">Resume templates</a><a href="https://www.figma.com/community/category/mobile-apps">Mobile apps</a><a href="https://www.figma.com/community/category/presentations">Presentation templates</a><a href="https://www.figma.com/community/category/ui-kits">UI kits</a><a href="https://www.figma.com/community/category/team-meetings">Standup templates</a></div><div class="css-18h1jy7"><div class="footer--sectionTitle--pM53E">Most used</div><a href="https://www.figma.com/community/file/878585965681562011">Material Design Icons</a><a href="https://www.figma.com/community/file/1248375255495415511">Apple Design Resources</a><a href="https://www.figma.com/community/file/784448220678228461">Figma auto layout playground</a><a href="https://www.figma.com/community/plugin/857346721138427857/anima-figma-to-react-html-react-html-in-devmode">Anima - Figma to React, HTML</a><a href="https://www.figma.com/community/file/831698976089873405">Ant Design Open Source</a></div><div class="css-18h1jy7"><div class="footer--sectionTitle--pM53E">Top collections</div><a href="https://www.figma.com/community/collections/instagram-mockup-designs">Instagram templates</a><a href="https://www.figma.com/community/collections/landing-page-design-examples">Landing page</a><a href="https://www.figma.com/community/templates/email-design-inspiration">Email design inspiration</a><a href="https://www.figma.com/community/templates/laptop-mockups">Laptop mockups</a><a href="https://www.figma.com/community/collections/arrow-designs">Arrow designs</a></div><div class="css-18h1jy7"><div class="footer--sectionTitle--pM53E">Top categories</div><a href="https://www.figma.com/community/category/design-templates">Design templates</a><a href="https://www.figma.com/community/category/libraries">Libraries</a><a href="https://www.figma.com/community/category/icons">Icons</a><a href="https://www.figma.com/community/category/development">Development</a><a href="https://www.figma.com/community/category/brainstorming">Brainstorming</a></div></div><div class="css-v933tu"><a href="https://www.figma.com/"><span class="svg-container footer--wordmark--CrA9E"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="73" height="26" viewBox="0 0 73 26"><path fill="#000" fill-opacity="1" fill-rule="nonzero" stroke="none" d="M.52.001v20.161l2.594.008v-9.6H9.37V8.031H3.114V2.538h8.146V0L.52.001zm15.409 4.093c.934 0 1.692-.758 1.692-1.692 0-.934-.758-1.692-1.692-1.692-.934 0-1.692.758-1.692 1.692 0 .934.758 1.692 1.692 1.692zm-1.32 2.537v13.535h2.594V6.631H14.61z"></path><path fill="#000" fill-opacity="1" fill-rule="evenodd" stroke="none" d="M26.825 6.237c-3.445 0-5.849 2.913-5.849 6.372 0 3.46 2.404 6.373 5.849 6.373 1.577 0 2.877-.611 3.823-1.605v1.802c0 2.242-1.762 4.117-4.06 4.117-.827 0-1.648-.32-2.302-.771l-1.3 2.25c1.038.67 2.274 1.058 3.601 1.058 3.676 0 6.655-2.979 6.655-6.654V6.631h-2.594v1.21c-.946-.994-2.246-1.604-3.823-1.604zm-3.255 6.372c0-2.147 1.643-3.835 3.537-3.835 1.894 0 3.537 1.688 3.537 3.835 0 2.147-1.643 3.835-3.537 3.835-1.894 0-3.537-1.688-3.537-3.835z"></path><path fill="#000" fill-opacity="1" fill-rule="nonzero" stroke="none" d="M42.59 8.774c-1.535 0-2.778 1.3-2.778 2.834v8.558h-2.594V6.63h2.594v1.24c.76-.982 1.88-1.634 3.341-1.634 1.818 0 3.213.903 4.02 2.284.9-1.334 2.365-2.284 4.129-2.284 2.952 0 4.79 2.382 4.808 5.329v8.6h-2.595v-8.558c0-1.534-1.243-2.834-2.777-2.834-1.534 0-2.777 1.3-2.777 2.834v8.558h-2.594v-8.558c0-1.534-1.244-2.834-2.778-2.834z"></path><path fill="#000" fill-opacity="1" fill-rule="evenodd" stroke="none" d="M69.926 8.166c-1.154-1.192-2.735-1.93-4.568-1.93-3.86 0-6.598 3.268-6.598 7.163 0 3.894 2.739 7.162 6.598 7.162 1.833 0 3.414-.738 4.568-1.93v1.535h2.594V6.63h-2.594v1.535zm-8.572 5.233c0-2.584 1.978-4.625 4.286-4.625 2.308 0 4.286 2.04 4.286 4.625 0 2.583-1.978 4.624-4.286 4.624-2.308 0-4.286-2.04-4.286-4.624z"></path></svg></span></a><div><span>© 2024 Figma, Inc.</span><span class="footer--divider--srDs2">•</span><a href="https://www.figma.com/sitemaps/figma-community-index.xml">Site map</a><span class="footer--divider--srDs2">•</span><a href="https://help.figma.com/hc/en-us/articles/360038510573-Figma-Community-Guidelines">Community guidelines</a><span class="footer--divider--srDs2">•</span><a href="https://www.figma.com/community-terms">Terms of service</a></div></div></div></div></div><div class="base_cookie_banner--container--nUKFl base_cookie_banner--container__authOrCommunity--cqdOl base_cookie_banner--container__community--oc-bP" role="region" aria-label="Consent Manager" data-testid="cookie-banner"><div class="base_cookie_banner--body--lPBYi">This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. We use our own cookies and some from third parties. Only essential cookies are turned on by default. <a href="https://www.figma.com/consent-preferences/" target="_blank" rel="noreferrer">Cookies settings</a></div><div class="base_cookie_banner--actions--1LAhr"><button class="auth_view--brandButton--Le4wb auth_view--brandButtonBase--RAO-j auth_branding--brand--WeCuU landing_form--hollowButton--fo853 auth_view--brandButton--Le4wb auth_view--brandButtonBase--RAO-j auth_branding--brand--WeCuU base_cookie_banner--brandButton__small--a85Tk" use="hollow" data-testid="cookie-opt-out-button">Do not allow cookies</button><button class="auth_view--brandButton--Le4wb auth_view--brandButtonBase--RAO-j auth_branding--brand--WeCuU base_cookie_banner--brandButton__small--a85Tk" use="standard" data-testid="cookie-opt-in-button">Allow all cookies</button></div><div class="base_cookie_banner--dismiss--gdSyk"><button type="button" data-testid="cookie-dismiss-button"><span class="svg-container base_cookie_banner--dismissIcon--0O2Nl"><svg class="svg" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><path fill="#000" fill-opacity=".9" fill-rule="evenodd" stroke="none" d="m16 15.293 4.646-4.646.708.707L16.707 16l4.647 4.646-.707.708L16 16.707l-4.646 4.647-.707-.707L15.293 16l-4.646-4.646.707-.707L16 15.293z"></path></svg></span></button></div></div><div class="index--figmaAuthModal--rNJVQ index--modalBackdrop--VqLCO" role="button" tabindex="0" style="visibility: hidden;"><div class="index--modal--vmXNN" style="opacity: 1; transform: scale(1);"><iframe id="figma-auth-iframe" data-testid="figma-auth-iframe" title="Figma Auth" src="./youtbelogo_files/login_iframe.html"></iframe></div></div></div></div></div></div>
+
+
+      <div class="file-browser-loading-page-container">
+  <div id="filebrowser-loading-page" class="filebrowser-loading-page filebrowser-loading-page-layout hidden fadeOut">
+    <div class="navbar"></div>
+
+    <!-- HAX: this sidebar is cloned and used outside of this page -->
+    <div id="filebrowser-loading-sidebar" class="filebrowser-loading-sidebar">
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="divider"></div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="divider"></div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+      <div class="row">
+        <div class="circle"></div>
+      </div>
+    </div>
+
+    <div class="page">
+
+
+      <div class="columns">
+
+
+        <div id="loading-content-pane" class="content filebrowser-loading-page">
+
+
+        </div>
+
+      </div>
+    </div>
+
+    <div id="filebrowser-loading-progress-bar"></div>
+  </div>
+</div>
+
+
+    <script nonce="" data-entrypoint="community">
+      window.ENTRY_POINT = document.currentScript.dataset.entrypoint
+    </script>
+
+    
+
+      <script nonce="">
+    window['sentryConfig'] = {
+    }
+  </script>
+
+      <script nonce="" src="./youtbelogo_files/runtime~community-0ace1b78f6a32402.min.js.br" defer="" crossorigin="anonymous"></script>
+      <script nonce="" src="./youtbelogo_files/vendor-core-736910575c7bd016.min.js.br" defer="" crossorigin="anonymous"></script>
+      <script nonce="" src="./youtbelogo_files/svg-85bb0323-44cfff070ab13369.min.js.br" defer="" crossorigin="anonymous"></script>
+      <script nonce="" src="./youtbelogo_files/svg-f3b69257-3be195c1c0860412.min.js.br" defer="" crossorigin="anonymous"></script>
+      <script nonce="" src="./youtbelogo_files/svg-0707a1b46e42e477.min.js.br" defer="" crossorigin="anonymous"></script>
+      <script nonce="" src="./youtbelogo_files/cssbuilder-99a5cc921c4b041d.min.js.br" defer="" crossorigin="anonymous"></script>
+      <script nonce="" src="./youtbelogo_files/vendor-1c15915145e32abc.min.js.br" defer="" crossorigin="anonymous"></script>
+      <script nonce="" src="./youtbelogo_files/community-59f55deb90efaae5.min.js.br" defer="" crossorigin="anonymous"></script>
+
+  
+
+</body></html>
